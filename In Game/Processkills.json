@@ -1,0 +1,20 @@
+[
+   {
+      "Process":"CrashReportClient"
+   },
+   {
+      "Process":"FortniteClient-Win64-Shipping"
+   },
+   {
+      "Process":"FortniteClient-Win64-Shipping_BE"
+   },
+   {
+      "Process":"FortniteClient-Win64-Shipping_EAC"
+   },
+   {
+      "Process":"FortniteLauncher"
+   },
+   {
+      "Process":"EpicGamesLauncher"
+   }
+]
