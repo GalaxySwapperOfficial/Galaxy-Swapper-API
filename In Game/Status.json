@@ -1,3 +1,13 @@
 {
-  "Discord":"discord.gg/galaxyswapper"
+   "Discord":"discord.gg/galaxyswapper",
+   "Status":false,
+   "Downtime":false,
+   "StatusInfo":{
+      "StatusMessage":"Warning!",
+      "StatusHeader":"Please Read:"
+   },
+   "DowntimeInfo":{
+      "DowntimeMessage":"",
+      "DowntimeHeader":""
+   }
 }
