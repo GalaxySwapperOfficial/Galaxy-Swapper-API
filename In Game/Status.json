@@ -1,6 +1,6 @@
 {
    "Discord":"discord.gg/galaxyswapper",
-   "Warning":false,
+   "Warning":true,
    "Downtime":false,
    "WarningInfo":{
       "WarningMessage":"Warning!",
