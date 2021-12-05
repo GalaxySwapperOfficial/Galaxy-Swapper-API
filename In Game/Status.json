@@ -1,13 +1,13 @@
 {
    "Discord":"discord.gg/galaxyswapper",
-   "Warning":true,
+   "Warning":false,
    "Downtime":false,
    "WarningInfo":{
       "WarningMessage":"Warning!",
       "WarningHeader":"Please Read:"
    },
    "DowntimeInfo":{
-      "DowntimeMessage":"",
-      "DowntimeHeader":""
+      "DowntimeMessage":"Swapper Currently Inactive!",
+      "DowntimeHeader":"Wow:"
    }
 }
