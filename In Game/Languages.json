@@ -10,4 +10,6 @@
    "ResetLogsMsg2":"Successfully Resetted Logs.",
    "LengthError":"New Asset Length Is Longer Then Original? Please Take A Picture Of This Error And Make A Ticket!",
    "RemoveDupedUcasMessage":"Successfully Removed Duped Ucas Files!",
+   "LoginPageKeyCorrect":"The Key You Have Entered Is Correct! Welcome.",
+   "LoginPageKeyInCorrect":"The Key You Have Inputed Is Incorrect. Check For Spaces?",
 }
