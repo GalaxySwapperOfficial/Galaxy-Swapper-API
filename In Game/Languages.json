@@ -16,5 +16,6 @@
    "VerifyMessage":"We Are Now Redrecting You To Epic Games Verification! If Epic Games Launcher Does Not Open By Itself Then Open It Manually.",
    "ToManyCosmetics":"Swapping This Cosmetic Will Cause A Kick! To Swap This Cosmetic Revert One Of Your Other Items.",
    "SelectPluginFile":"Select A Plugin File To Continue.",
-   "PluginFileInvalidJson":"Plugin File Json Is Invalid Make Sure Its A Valid Json Format."
+   "PluginFileInvalidJson":"Plugin File Json Is Invalid Make Sure Its A Valid Json Format.",
+   "PluginAnyLengthError":"Search String Is Longer Then Replace! Any Length Is Currently Not Supported For Plugins."
 }
