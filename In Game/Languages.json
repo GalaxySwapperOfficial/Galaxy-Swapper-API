@@ -5,6 +5,7 @@
    "ResetSettings":"Successfully Reseted Settings!",
    "NoSwappedLogsMsg":"You Currently Have No Cosmetics Swapped! ;(",
    "SwapperUpdate":"Your Are Currently On A Outdated Version! You Must Update To {0} To Keep Using The Swapper.\nClick Ok To Download New Version",
+   "SwapperUpdatev2":"You Are Currently On A Outdated Version You Must Update To {0} To Keep Using The Swapper! Would You Like To Auto Update?",
    "RefreshCosmetic":"Successfully Refreshed Cosmetics!",
    "ResetLogsMsg1":"Resetting Logs Will Not Remove The Cosmetics It Will Just Reset Swap Logs. Do You Wish To Continue?",
    "ResetLogsMsg2":"Successfully Resetted Logs.",
