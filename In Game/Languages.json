@@ -10,6 +10,7 @@
    "ResetLogsMsg1":"Resetting Logs Will Not Remove The Cosmetics It Will Just Reset Swap Logs. Do You Wish To Continue?",
    "ResetLogsMsg2":"Successfully Resetted Logs.",
    "LengthError":"New Asset Length Is Longer Then Original? Please Take A Picture Of This Error And Make A Ticket!",
+   "AnyLengthError":"Asset Has Ran Out Of Room For Any Length! Please Shorten Your Replace String.",
    "RemoveDupedUcasMessage":"Successfully Removed Duped Ucas Files!",
    "LoginPageKeyCorrect":"The Key You Have Entered Is Correct! Welcome {0}.",
    "LoginPageKeyInCorrect":"The Key You Have Inputed Is Incorrect. Check For Spaces?",
