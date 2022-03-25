@@ -4,14 +4,14 @@
    "DownloadLink":"https://link-hub.net/400176/galaxy-swapper-v2",
    "LinkvertiseLink":"https://direct-link.net/400176/galaxy-swapper-v2-key",
    "DownloadDirectLink":"/Downloads/v2/Galaxy%20Swapper%20v2.zip",
-   "Warning":true,
-   "Downtime":false,
+   "Warning":false,
+   "Downtime":true,
    "WarningInfo":{
       "WarningMessage":"I Am Currently Aware Of The Swapper Not Working As Intended, I Am Working On A New Update To Fix The Issue! Keep Up To Date In Our Discord For More Info.",
       "WarningHeader":"Please Read:"
    },
    "DowntimeInfo":{
-      "DowntimeMessage":"Swapper Currently Inactive!",
-      "DowntimeHeader":"Wow:"
+      "DowntimeMessage":"Swapper Currently Inactive! Our Team Are Currently Working On A New Version To Fix All The Current Issues. Current ETA For New Update Is Saturday!",
+      "DowntimeHeader":"Please Read:"
    }
 }
