@@ -5,14 +5,8 @@
    "LargeImageText":"Galaxy Swapper v2",
    "SmallImageKey":"credit",
    "SmallImageText":"Developed By Wslt#7904",
-   "Buttons":[
-      {
-         "Label":"Discord",
-         "URL":"https://discord.gg/rbAKZvbyj8"
-      },
-      {
-         "Label":"Website",
-         "URL":"https://www.galaxyswapperv2.com/"
-      }
-   ]
+   "Discord-LABEL":"Discord",
+   "Discord-URL":"https://discord.gg/rbAKZvbyj8",
+   "Website-LABEL":"Website",
+   "Website-URL":"https://www.galaxyswapperv2.com"
 }
