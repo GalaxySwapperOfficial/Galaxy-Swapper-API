@@ -5,13 +5,13 @@
    "LinkvertiseLink":"https://link-to.net/98253/GalaxySwapperv2Key",
    "DownloadDirectLink":"/Downloads/v2/Galaxy%20Swapper%20v2.zip",
    "Warning":false,
-   "Downtime":false,
+   "Downtime":true,
    "WarningInfo":{
       "WarningMessage":"Backing Up Ucas Files Can Take Up To 5 Minutes!",
       "WarningHeader":"Please Read:"
    },
    "DowntimeInfo":{
-      "DowntimeMessage":"Swapper Currently Inactive! Our Team Are Currently Working On A New Version To Fix All The Current Issues. Current ETA For New Update Is Saturday!",
+      "DowntimeMessage":"Swapper Currently Inactive! Our Team Are Currently Working On Fixxing A Issue",
       "DowntimeHeader":"Please Read:"
    }
 }
