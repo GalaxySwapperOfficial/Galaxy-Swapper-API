@@ -14,6 +14,7 @@
    "RemoveDupedUcasMessage":"Successfully Removed Duped Ucas Files!",
    "LoginPageKeyCorrect":"The Key You Have Entered Is Correct! Welcome {0}.",
    "LoginPageKeyInCorrect":"The Key You Have Inputted Is Incorrect. Check For Spaces?",
+   "LoginPageKeyEmpty":"Textbox is empty! Please input a valid key before clicking 'use key'",
    "EmoteWarning":"Do Not Put Swapped Emotes In Your Emote Wheel!\nYou Can Favorite The Emote To Find It Faster.",
    "VerifyMessage":"We Are Now Redirecting You To Epic Games Verification! If Epic Games Launcher Does Not Open By Itself, Then Open It Manually.",
    "ToManyCosmetics":"Swapping This Cosmetic Will Cause A Kick! To Swap This Cosmetic, Revert One Of Your Other Items.",
