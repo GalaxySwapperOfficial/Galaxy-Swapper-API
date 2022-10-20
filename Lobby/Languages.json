@@ -1,8 +1,3 @@
 {
-   "PatchNotes":"[!] NULL",
-   "Credits":"Created By Wslt#7904",
-   "FortniteInstallFail":"Failed to find Fortnite directory! Please manually select it in settings.",
-   "LoginPageKeyCorrect":"The Key You Have Entered Is Correct! Welcome {0}.",
-   "LoginPageKeyInCorrect":"The Key You Have Inputted Is Incorrect. Check For Spaces?",
-   "LoginPageKeyEmpty":"Textbox is empty! Please input a valid key before clicking 'use key'"
+   "SwapperUpdate":"You Are Currently On A Outdated Version! You Must Update To {0} To Keep Using The Swapper.\nClick Ok To Download New Version"
 }
