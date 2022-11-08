@@ -11,10 +11,6 @@
     "DownTimeInfo": {
       "Header": "",
       "Message": ""
-    },
-    "Sections": {
-      "Skins": "https://raw.githubusercontent.com/GalaxySwapperOfficial/Galaxy-Swapper-API/main/In%20Game/Cosmetics/Skins.json",
-      "Backblings": "https://raw.githubusercontent.com/GalaxySwapperOfficial/Galaxy-Swapper-API/main/In%20Game/Cosmetics/Backblings.json"
     }
   }
 }
