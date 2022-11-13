@@ -1,5 +1,0 @@
-{
-   "SwapperUpdate":"You Are Currently On A Outdated Version! You Must Update To {0} To Keep Using The Swapper.\nClick Ok To Download New Version",
-   "InvalidAes":"Galaxy swapper lobby can not be ran at this time. Please try again later!\n[FortniteAPI Aes key has returned null or empty]",
-   "CosmeticDownloadError":"Cosmetics failed to download"
-}
