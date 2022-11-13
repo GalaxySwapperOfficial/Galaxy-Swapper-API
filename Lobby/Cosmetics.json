@@ -1,0 +1,32 @@
+{
+    "Skins":{
+        "Options":[
+            {
+                "Name":"Blaze",
+                "ID":"CID_784_Athena_Commando_F_RenegadeRaiderFire"
+            }
+        ],
+        "Swaps":[
+            {
+                "Name":"Renegade Raider",
+                "ID":"CID_028_Athena_Commando_F",
+                "Options":null
+            },
+            {
+                "Name":"Aerial Assault Trooper",
+                "ID":"CID_017_Athena_Commando_M",
+                "Options":null
+            },
+            {
+                "Name":"Ghoul Trooper (Pink)",
+                "ID":"CID_029_Athena_Commando_F_Halloween",
+                "Options":[
+                    {
+                        "Name":"Zenith",
+                        "ID":"CID_287_Athena_Commando_M_ArcticSniper"
+                    }
+                ]
+            }
+        ]
+    }
+}
