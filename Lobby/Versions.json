@@ -1,0 +1,16 @@
+{
+  "1.00": {
+    "Warning": false,
+    "DownTime": false,
+    "Update": false,
+    "UpdateRequried": false,
+    "WarningInfo": {
+      "Header": "",
+      "Message": ""
+    },
+    "DownTimeInfo": {
+      "Header": "",
+      "Message": ""
+    }
+  }
+}
