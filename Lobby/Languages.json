@@ -1,0 +1,15 @@
+{
+  "Options":[
+    {
+      "Name":"English",
+      "Short":"ENG"
+    },
+    {
+      "Name":"Spanish",
+      "Short":"SPAN"
+    }
+  ],
+  "LoginSuccess":{
+    "ENG":"Successfully activated key! Welcome to galaxy swapper."
+  }
+}
