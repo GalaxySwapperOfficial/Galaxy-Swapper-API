@@ -10,6 +10,15 @@
     }
   ],
   "LoginSuccess":{
-    "ENG":"Successfully activated key! Welcome to galaxy swapper."
+    "ENG":"Successfully activated key! Welcome to galaxy swapper.",
+    "SPAN":"¡Llave activada con éxito! Bienvenido a galaxy swapper."
+  },
+  "LoginFailed":{
+    "ENG":"Key is invalid! Please check if you inputed it correctly.",
+    "SPAN":"¡La clave no es válida! Por favor, compruebe si lo ha introducido correctamente."
+  },
+  "LoginFailedConnect":{
+    "ENG":"Failed to activate key! Please try disabling windows firewall and ensure you have a stable connection and try again.",
+    "SPAN":"¡Error al activar la clave! Intente deshabilitar el firewall de Windows y asegúrese de tener una conexión estable y vuelva a intentarlo."
   }
 }
