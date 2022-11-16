@@ -13,31 +13,31 @@
         "LoginPage": {
             "Header": {
                 "ENG": "Activate your key",
-                "SPAN": ""
+                "SPAN": "Activa tu clave"
             },
             "Tip": {
                 "ENG": "Don't have a key?",
-                "SPAN": ""
+                "SPAN": "¿No tienes una llave?"
             },
             "TipHyperlink": {
                 "ENG": "Get a free key",
-                "SPAN": ""
+                "SPAN": "Obtenga una clave gratis"
             },
             "Help": {
                 "ENG": "Need help?",
-                "SPAN": ""
+                "SPAN": "¿Necesitas ayuda?"
             },
             "HelpHyperlink": {
                 "ENG": "Join our discord",
-                "SPAN": ""
+                "SPAN": "Únase a nuestra discordia"
             },
             "Key": {
                 "ENG": "Key",
-                "SPAN": ""
+                "SPAN": "Llave"
             },
             "ButtonActivate": {
                 "ENG": "Activate",
-                "SPAN": ""
+                "SPAN": "Activar"
             }
         }
     },
