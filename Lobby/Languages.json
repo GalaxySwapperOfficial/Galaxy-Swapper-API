@@ -10,7 +10,36 @@
         }
     ],
     "Interface": {
-        
+        "LoginPage": {
+            "Header": {
+                "ENG": "Activate your key",
+                "SPAN": ""
+            },
+            "Tip": {
+                "ENG": "Don't have a key?",
+                "SPAN": ""
+            },
+            "TipHyperlink": {
+                "ENG": "Get a free key",
+                "SPAN": ""
+            },
+            "Help": {
+                "ENG": "Need help?",
+                "SPAN": ""
+            },
+            "HelpHyperlink": {
+                "ENG": "Join our discord",
+                "SPAN": ""
+            },
+            "Key": {
+                "ENG": "Key",
+                "SPAN": ""
+            },
+            "ButtonActivate": {
+                "ENG": "Activate",
+                "SPAN": ""
+            }
+        }
     },
     "Messages": {
         "Headers": {
