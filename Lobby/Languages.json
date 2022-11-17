@@ -40,7 +40,7 @@
                 "SPAN": "Activar"
             }
         },
-        "MainView":{
+        "MainView": {
             "Dashboard": {
                 "ENG": "Dashboard",
                 "SPAN": "Tablero"
@@ -90,6 +90,23 @@
             "Search": {
                 "ENG": "Search",
                 "SPAN": "Búsqueda"
+            }
+        },
+        "DashboardView": {
+            "PatchNotes": {
+                "ENG": "Patch Notes:",
+                "SPAN": "Notas del parche:"
+            },
+            "MoreNews": {
+                "ENG": "More News:",
+                "SPAN": "Mas noticias:"
+            },
+            "Copyright": {
+                "ENG": "Galaxy Swapper v2"
+            },
+            "Credits": {
+                "ENG": "Created by Wslt#7904",
+                "SPAN": "Creado por Wslt#7904"
             }
         }
     },
