@@ -39,6 +39,58 @@
                 "ENG": "Activate",
                 "SPAN": "Activar"
             }
+        },
+        "MainView":{
+            "Dashboard": {
+                "ENG": "Dashboard",
+                "SPAN": "Tablero"
+            },
+            "Skins": {
+                "ENG": "Skins",
+                "SPAN": "Pieles"
+            },
+            "Backblings": {
+                "ENG": "Back Blings",
+                "SPAN": "Adornos traseros"
+            },
+            "Pickaxes": {
+                "ENG": "Pickaxes",
+                "SPAN": "picos"
+            },
+            "Emotes": {
+                "ENG": "Emotes",
+                "SPAN": "Danzas"
+            },
+            "Emoticons": {
+                "ENG": "Emoticon",
+                "SPAN": "emoticono"
+            },
+            "Wraps": {
+                "ENG": "Wraps",
+                "SPAN": "Envolturas"
+            },
+            "Gliders": {
+                "ENG": "Gliders",
+                "SPAN": "Planeadores"
+            },
+            "Musicpacks": {
+                "ENG": "Music",
+                "SPAN": "Música"
+            },
+            "Settings": {
+                "ENG": "Settings",
+                "SPAN": "Ajustes"
+            },
+            "Discord": {
+                "ENG": "Discord"
+            },
+            "EXTRA": {
+                "ENG": "EXTRA"
+            },
+            "Search": {
+                "ENG": "Search",
+                "SPAN": "Búsqueda"
+            }
         }
     },
     "Messages": {
