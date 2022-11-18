@@ -93,6 +93,9 @@
             }
         },
         "DashboardView": {
+            "Notes": {
+                "ENG": "[+] Jun-Hwan\n [+] Tackle Titan"
+            },
             "PatchNotes": {
                 "ENG": "Patch Notes:",
                 "SPAN": "Notas del parche:"
