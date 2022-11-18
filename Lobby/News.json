@@ -1,0 +1,16 @@
+[
+    {
+        "Type":null,
+        "IMG":"https://cdn.discordapp.com/attachments/1006267330399060018/1043015638282678382/NewsTemplate.png",
+        "Header":"Whats New In This Update?",
+        "Description":"We have just released all cosmetics from version 22.40!",
+        "URL":null
+    },
+    {
+        "Type":"FortniteNews",
+        "IMG":null,
+        "Header":"Fortnite News:",
+        "Description":"Latest Fortnite news powerd by Fortnite-API",
+        "URL":null
+    }
+]
