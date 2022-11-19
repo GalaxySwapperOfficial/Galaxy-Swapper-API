@@ -1,4 +1,6 @@
 {
+    "High":"https://fortnite-api.com/images/cosmetics/br/{0}/icon.png",
+    "Low":"https://fortnite-api.com/images/cosmetics/br/{0}/smallicon.png",
     "Skins":{
         "Options":[
             {
