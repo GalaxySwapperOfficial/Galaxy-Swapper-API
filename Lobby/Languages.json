@@ -94,7 +94,7 @@
         },
         "DashboardView": {
             "Notes": {
-                "ENG": "[+] Jun-Hwan\n[+] Tackle Titan"
+                "ENG": "[+] Jun-Hwan\n [+] Tackle Titan"
             },
             "PatchNotes": {
                 "ENG": "Patch Notes:",
@@ -110,6 +110,12 @@
             "Credits": {
                 "ENG": "Created by Wslt#7904",
                 "SPAN": "Creado por Wslt#7904"
+            }
+        },
+        "CosmeticView": {
+            "NoOption": {
+                "ENG": "This cosmetic currently has no options! Feel free to leave a option suggestion in suggestions channel.",
+                "SPAN": "¡Este cosmético actualmente no tiene opciones! Siéntase libre de dejar una sugerencia de opción en el canal de sugerencias."
             }
         }
     },
