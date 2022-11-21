@@ -111,12 +111,6 @@
                 "ENG": "Created by Wslt#7904",
                 "SPAN": "Creado por Wslt#7904"
             }
-        },
-        "CosmeticView": {
-            "NoOption": {
-                "ENG": "This cosmetic currently has no options! Feel free to leave a option suggestion in suggestions channel.",
-                "SPAN": "¡Este cosmético actualmente no tiene opciones! Siéntase libre de dejar una sugerencia de opción en el canal de sugerencias."
-            }
         }
     },
     "Messages": {
@@ -127,6 +121,10 @@
             },
             "Error": {
                 "ENG": "Error"
+            },
+            "Warning": {
+                "ENG": "Warning",
+                "SPAN": "Advertencia"
             }
         },
         "LoginSuccess": {
@@ -140,6 +138,10 @@
         "LoginFailedConnect": {
             "ENG": "Failed to activate key! Please try disabling windows firewall and ensure you have a stable connection and try again.",
             "SPAN": "¡Error al activar la clave! Intente deshabilitar el firewall de Windows y asegúrese de tener una conexión estable y vuelva a intentarlo."
+        },
+        "NoOption": {
+            "ENG": "This cosmetic currently has no options! Feel free to leave a option suggestion in suggestions channel.",
+            "SPAN": "¡Este cosmético actualmente no tiene opciones! Siéntase libre de dejar una sugerencia de opción en el canal de sugerencias."
         }
     }
 }
