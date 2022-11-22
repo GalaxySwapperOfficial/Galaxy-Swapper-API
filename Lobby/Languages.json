@@ -94,7 +94,7 @@
         },
         "DashboardView": {
             "Notes": {
-                "ENG": "[+] Jun-Hwan\n [+] Tackle Titan"
+                "ENG": "[+] Jun-Hwan\n[+] Tackle Titan"
             },
             "PatchNotes": {
                 "ENG": "Patch Notes:",
@@ -110,6 +110,16 @@
             "Credits": {
                 "ENG": "Created by Wslt#7904",
                 "SPAN": "Creado por Wslt#7904"
+            }
+        },
+        "OptionsView": {
+            "Header": {
+                "ENG": "What option would you like to swap?",
+                "SPAN": "¿Qué opción te gustaría cambiar?"
+            },
+            "Tip": {
+                "ENG": "You must own the cosmetic you select!",
+                "SPAN": "¡Debes tener el cosmético que selecciones!"
             }
         }
     },
