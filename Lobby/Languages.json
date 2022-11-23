@@ -121,6 +121,16 @@
                 "ENG": "You must own the cosmetic you select!",
                 "SPAN": "¡Debes tener el cosmético que selecciones!"
             }
+        },
+        "SwapView": {
+            "Convert": {
+                "ENG": "Convert",
+                "SPAN": "Convertir"
+            },
+            "Revert": {
+                "ENG": "Revert",
+                "SPAN": "Revertir"
+            }
         }
     },
     "Messages": {
