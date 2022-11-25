@@ -162,6 +162,18 @@
         "NoOption": {
             "ENG": "This cosmetic currently has no options! Feel free to leave a option suggestion in suggestions channel.",
             "SPAN": "¡Este cosmético actualmente no tiene opciones! Siéntase libre de dejar una sugerencia de opción en el canal de sugerencias."
+        },
+        "WorkerBusy": {
+            "ENG": "Convert worker is already running! Please wait for the swap to complete before interacting again.",
+            "SPAN": "¡Convertir trabajador ya se está ejecutando! Espere a que se complete el intercambio antes de volver a interactuar."
+        },
+        "UpdateRequried": {
+            "ENG": "A updated is required! Please click 'ok' to download now.",
+            "SPAN": "¡Se requiere una actualización! Por favor, haga clic en 'ok' para descargar ahora."
+        },
+        "UpdateAvailable": {
+            "ENG": "A updated is available! Would you like to download it now?",
+            "SPAN": "¡Hay una actualización disponible! ¿Te gustaría descargarlo ahora?"
         }
     }
 }
