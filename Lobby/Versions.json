@@ -4,17 +4,17 @@
    "Download":"https://link-target.net/98253/GalaxySwapperv2OfficialDownload",
    "Key":"https://link-to.net/98253/GalaxySwapperv2Key",
    "1.00":{
-      "Warning":true,
-      "DownTime":true,
-      "Update":true,
-      "UpdateRequried":true,
+      "Warning":false,
+      "DownTime":false,
+      "Update":false,
+      "UpdateRequried":false,
       "WarningInfo":{
-         "Header":"Warning",
-         "Message":"Test Warning"
+         "Header":"",
+         "Message":""
       },
       "DownTimeInfo":{
-         "Header":"Warning",
-         "Message":"Test Downtime"
+         "Header":"",
+         "Message":""
       }
    }
 }
