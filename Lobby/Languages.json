@@ -182,6 +182,10 @@
         "FortniteDirectoryInvalid": {
             "ENG": "Fortnite directory no longer exists on this PC! To fix this, simply visit the settings tab and click the folder icon and select your Fortnite path.",
             "SPAN": "¡El directorio de Fortnite ya no existe en esta PC! Para solucionar esto, simplemente visite la pestaña de configuración y haga clic en el icono de la carpeta y seleccione su ruta de Fortnite."
+        },
+        "AesKeyInvalid": {
+            "ENG": "AES key has not been updated for the latest version of Fortnite! Please try again later.",
+            "SPAN": "¡La clave AES no se ha actualizado para la última versión de Fortnite! Por favor, inténtelo de nuevo más tarde."
         }
     }
 }
