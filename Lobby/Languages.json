@@ -190,6 +190,10 @@
         "DriveSpaceError": {
             "ENG": "{0} Drive does not have enough space requried to create a backup! Please make room for this process to continue.",
             "SPAN": "{0} ¡La unidad no tiene suficiente espacio requerido para crear una copia de seguridad! Haga espacio para que este proceso continúe."
+        },
+        "CompressedLengthError": {
+            "ENG": "New compressed asset is longer then the orignal compressed asset!\nOrignal: {0}\nNew: {1}",
+            "SPAN": "El nuevo recurso comprimido es más largo que el recurso comprimido original.\nOriginal: {0}\nNuevo: {1}"
         }
     }
 }
