@@ -186,6 +186,10 @@
         "AesKeyInvalid": {
             "ENG": "AES key has not been updated for the latest version of Fortnite! Please try again later.",
             "SPAN": "¡La clave AES no se ha actualizado para la última versión de Fortnite! Por favor, inténtelo de nuevo más tarde."
+        },
+        "DriveSpaceError": {
+            "ENG": "{0} Drive does not have enough space requried to create a backup! Please make room for this process to continue.",
+            "SPAN": "{0} ¡La unidad no tiene suficiente espacio requerido para crear una copia de seguridad! Haga espacio para que este proceso continúe."
         }
     }
 }
