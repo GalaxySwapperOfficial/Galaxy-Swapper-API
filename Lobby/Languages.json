@@ -194,6 +194,10 @@
         "CompressedLengthError": {
             "ENG": "New compressed asset is longer then the orignal compressed asset!\nOrignal: {0}\nNew: {1}",
             "SPAN": "El nuevo recurso comprimido es más largo que el recurso comprimido original.\nOriginal: {0}\nNuevo: {1}"
+        },
+        "InGameWarning": {
+            "ENG": "We have detected that you have been using Galaxy Swapper In Game! Using both swappers at the sametime can cause you to get kicked from matches. We recommend you removing duped ucas from Galaxy Swapper In Game!",
+            "SPAN": "¡Hemos detectado que has estado usando Galaxy Swapper In Game! El uso de ambos swappers al mismo tiempo puede hacer que te expulsen de las partidas. ¡Le recomendamos que elimine las ucas duplicadas de Galaxy Swapper In Game!"
         }
     }
 }
