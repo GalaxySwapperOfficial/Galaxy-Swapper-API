@@ -131,6 +131,12 @@
                 "ENG": "Revert",
                 "SPAN": "Revertir"
             }
+        },
+        "SettingsView": {
+            "FolderBrowserDialogDescription": {
+                "ENG": "Select your Fortnite install location",
+                "SPAN": "Seleccione su ubicación de instalación de Fortnite"
+            }
         }
     },
     "Messages": {
@@ -198,6 +204,14 @@
         "InGameWarning": {
             "ENG": "We have detected that you have been using Galaxy Swapper In Game! Using both swappers at the sametime can cause you to get kicked from matches. We recommend you removing duped ucas from Galaxy Swapper In Game!",
             "SPAN": "¡Hemos detectado que has estado usando Galaxy Swapper In Game! El uso de ambos swappers al mismo tiempo puede hacer que te expulsen de las partidas. ¡Le recomendamos que elimine las ucas duplicadas de Galaxy Swapper In Game!"
+        },
+        "ValidSelection": {
+            "ENG": "Successfully updated Fortnite install location to:\n{0}",
+            "SPAN": "Ubicación de instalación de Fortnite actualizada con éxito a:\n{0}"
+        },
+        "NotValidSelection": {
+            "ENG": "The selected location is not a valid Fortnite install path! Please make sure you are selected the correct folder.",
+            "SPAN": "¡La ubicación seleccionada no es una ruta de instalación de Fortnite válida! Por favor, asegúrese de haber seleccionado la carpeta correcta."
         }
     }
 }
