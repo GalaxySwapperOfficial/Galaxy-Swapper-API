@@ -248,6 +248,16 @@
                 "ENG": "Low Quality Icons",
                 "SPAN": "Iconos de baja calidad"
             }
+        },
+        "LanguageView": {
+            "ChangeLanguage": {
+                "ENG": "Change Language",
+                "SPAN": "Cambiar idioma"
+            },
+            "Warning": {
+                "ENG": "Changes will apply once this window is closed",
+                "SPAN": "Los cambios se aplicarán una vez que se cierre esta ventana"
+            }
         }
     },
     "Messages": {
