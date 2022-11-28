@@ -212,6 +212,26 @@
         "NotValidSelection": {
             "ENG": "The selected location is not a valid Fortnite install path! Please make sure you are selected the correct folder.",
             "SPAN": "¡La ubicación seleccionada no es una ruta de instalación de Fortnite válida! Por favor, asegúrese de haber seleccionado la carpeta correcta."
+        },
+        "ClosedFortnite": {
+            "ENG": "Successfully closed Fortnite!",
+            "SPAN": "¡Fortnite cerrado con éxito!"
+        },
+        "RemovedDupedUcas": {
+            "ENG": "Successfully removed duped ucas!",
+            "SPAN": "Eliminado con éxito ucas duplicados"
+        },
+        "RemovedDupedUcasError": {
+            "ENG": "Caught a error while trying to delete duped ucas!\n{0}\nPlease make sure Fortnite is closed and try restarting the swapper.",
+            "SPAN": "¡Obtuve un error al intentar eliminar ucas duplicadas!\n{0}\nAsegúrate de que Fortnite esté cerrado e intenta reiniciar el intercambiador."
+        },
+        "Verify": {
+            "ENG": "We are now redirecting you to Epic Games verification! If Epic Games Launcher does not open by itself, then open it manually.",
+            "SPAN": "¡Ahora lo estamos redirigiendo a la verificación de Epic Games! Si Epic Games Launcher no se abre solo, ábralo manualmente."
+        },
+        "ConvertedItems": {
+            "ENG": "Converted items:\n{0}\nPakchunks in use:\n{1}",
+            "SPAN": "Elementos convertidos:\n{0}\nPakchunks en uso:\n{1}"
         }
     }
 }
