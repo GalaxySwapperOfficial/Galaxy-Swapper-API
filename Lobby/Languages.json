@@ -1,7 +1,7 @@
 {
     "Options": [
         {
-            "Name": "English",
+            "Name": "English (Default)",
             "Short": "ENG"
         },
         {
@@ -136,6 +136,117 @@
             "FolderBrowserDialogDescription": {
                 "ENG": "Select your Fortnite install location",
                 "SPAN": "Seleccione su ubicación de instalación de Fortnite"
+            },
+            "FortniteInstallHeader": {
+                "ENG": "Fortnite Install Location",
+                "SPAN": "Ubicación de instalación de Fortnite"
+            },
+            "FortniteInstallDescription": {
+                "ENG": "Need to change your Fortnite install location? Click the folder!",
+                "SPAN": "¿Necesitas cambiar tu ubicación de instalación de Fortnite? ¡Haz clic en la carpeta!"
+            },
+            "LanguageHeader": {
+                "ENG": "Language",
+                "SPAN": "Idioma"
+            },
+            "LanguageDescription": {
+                "ENG": "Need to change your language? Click 'Change Language'",
+                "SPAN": "¿Necesitas cambiar tu idioma? Haga clic en 'Cambiar idioma'"
+            },
+            "EditLanguage": {
+                "ENG": "Change Language",
+                "SPAN": "Cambiar idioma"
+            },
+            "AccountInfoHeader": {
+                "ENG": "Account Info",
+                "SPAN": "Informacion de cuenta"
+            },
+            "AccountInfoDescription": {
+                "ENG": "Want to know how long you have left on your key? Here you go.",
+                "SPAN": "¿Quieres saber cuánto tiempo te queda en tu llave? Aquí tienes."
+            },
+            "Username": {
+                "ENG": "Username: {0}",
+                "SPAN": "Nombre de usuario: {0}"
+            },
+            "DaysLeft": {
+                "ENG": "Days Left: {0}",
+                "SPAN": "Días restantes: {0}"
+            },
+            "ExpiresOn": {
+                "ENG": "Expires On: {0}",
+                "SPAN": "Caduca el: {0}"
+            },
+            "FortniteHeader": {
+                "ENG": "Fortnite"
+            },
+            "FortniteDescription": {
+                "ENG": "Having issues with fortnite? This is the spot to go.",
+                "SPAN": "¿Tienes problemas con fortnite? Este es el lugar para ir."
+            },
+            "StartFortnite": {
+                "ENG": "Start Fortnite",
+                "SPAN": "Iniciar Fortnite"
+            },
+            "CloseFortnite": {
+                "ENG": "Close Fortnite",
+                "SPAN": "Cerrar Fortnite"
+            },
+            "RemoveDupedUcas": {
+                "ENG": "Remove Duped Ucas",
+                "SPAN": "Eliminar Duped Ucas"
+            },
+            "VerifyFortnite": {
+                "ENG": "Verify Fortnite",
+                "SPAN": "Verificar Fortnite"
+            },
+            "ConvertedItemsHeader": {
+                "ENG": "Converted Items",
+                "SPAN": "Artículos convertidos"
+            },
+            "ConvertedItemsDescription": {
+                "ENG": "Forgot what you swapped? Well here you go.",
+                "SPAN": "¿Olvidaste lo que cambiaste? Bueno, aquí tienes."
+            },
+            "ItemsSwapped": {
+                "ENG": "Items Swapped: {0}",
+                "SPAN": "Artículos intercambiados: {0}"
+            },
+            "Show": {
+                "ENG": "Show",
+                "SPAN": "Espectáculo"
+            },
+            "Reset": {
+                "ENG": "Reset",
+                "SPAN": "Reiniciar"
+            },
+            "MiscellaneousHeader": {
+                "ENG": "Miscellaneous",
+                "SPAN": "Misceláneos"
+            },
+            "MiscellaneousDescription": {
+                "ENG": "Some more advanced options just for you!",
+                "SPAN": "¡Algunas opciones más avanzadas solo para ti!"
+            },
+            "ThemeEditor": {
+                "ENG": "Theme Editor",
+                "SPAN": "Editor de temas"
+            },
+            "RefreshCosmeticTabs": {
+                "ENG": "Refresh Cosmetic Tabs",
+                "SPAN": "Actualizar pestañas cosméticas"
+            },
+            "DiscordRichPresence": {
+                "ENG": "Discord Rich Presence",
+                "SPAN": "Presencia rica en discordia"
+            },
+            "AutoCloseFortnite": {
+                "ENG": "Auto Close Fortnite",
+                "SPAN": "Cierre automático Fortnite"
+            },
+            "LowQualityIcons": {
+                "ENG": "Low Quality Icons",
+                "SPAN": "Iconos de baja calidad"
             }
         }
     },
@@ -151,6 +262,10 @@
             "Warning": {
                 "ENG": "Warning",
                 "SPAN": "Advertencia"
+            },
+            "Question": {
+                "ENG": "Question",
+                "SPAN": "Pregunta"
             }
         },
         "LoginSuccess": {
@@ -232,6 +347,18 @@
         "ConvertedItems": {
             "ENG": "Converted items:\n{0}\nPakchunks in use:\n{1}",
             "SPAN": "Elementos convertidos:\n{0}\nPakchunks en uso:\n{1}"
+        },
+        "ResetConvertedItemsWarning": {
+            "ENG": "Are you sure you want to reset converted items?\n(This will not remove the cosmetics from your game this will only reset converted items list)",
+            "SPAN": "¿Está seguro de que desea restablecer los elementos convertidos?\n(Esto no eliminará los cosméticos de su juego, solo restablecerá la lista de elementos convertidos)"
+        },
+        "ResetConvertedItems": {
+            "ENG": "Successfully reset converted items!",
+            "SPAN": "¡Restablecer con éxito los elementos convertidos!"
+        },
+        "RefreshCosmetics": {
+            "ENG": "Successfully refreshed cosmetic tabs!",
+            "SPAN": "¡Pestañas cosméticas actualizadas con éxito!"
         }
     }
 }
