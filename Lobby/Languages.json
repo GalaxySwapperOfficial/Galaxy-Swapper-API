@@ -130,6 +130,38 @@
             "Revert": {
                 "ENG": "Revert",
                 "SPAN": "Revertir"
+            },
+            "DefaultLOG": {
+                "ENG": "Waiting for input..",
+                "SPAN": "Esperando entrada.."
+            },
+            "Provider": {
+                "ENG": "Initializing Provider",
+                "SPAN": "Inicializando proveedor"
+            },
+            "Exporting": {
+                "ENG": "Exporting AssetPath",
+                "SPAN": "Exportador AssetPath"
+            },
+            "Disposing": {
+                "ENG": "Disposing Provider",
+                "SPAN": "Proveedor de eliminación"
+            },
+            "BackingUp": {
+                "ENG": "Backing Up Pakchunks",
+                "SPAN": "Copia de seguridad de paquetes"
+            },
+            "Swapping": {
+                "ENG": "Swapping Asset",
+                "SPAN": "Intercambio de activos"
+            },
+            "CompletedMinutes": {
+                "ENG": "Completed In {0}:{1}",
+                "SPAN": "Completado en {0}:{1}"
+            },
+            "CompletedSeconds": {
+                "ENG": "Completed In 0:{0}",
+                "SPAN": "Completado en 0:{0}"
             }
         },
         "SettingsView": {
@@ -253,10 +285,6 @@
             "ChangeLanguage": {
                 "ENG": "Change Language",
                 "SPAN": "Cambiar idioma"
-            },
-            "Warning": {
-                "ENG": "Changes will apply once this window is closed",
-                "SPAN": "Los cambios se aplicarán una vez que se cierre esta ventana"
             }
         }
     },
@@ -369,6 +397,22 @@
         "RefreshCosmetics": {
             "ENG": "Successfully refreshed cosmetic tabs!",
             "SPAN": "¡Pestañas cosméticas actualizadas con éxito!"
+        },
+        "CompletedSwapMinutes": {
+            "ENG": "Successfully Converted In {0} Minutes!",
+            "SPAN": "¡Convertido con éxito en {0} minutos!"
+        },
+        "CompletedSwapSeconds": {
+            "ENG": "Successfully Converted In {0} Seconds!",
+            "SPAN": "¡Convertido con éxito en {0} segundos!"
+        },
+        "CompletedRevertMinutes": {
+            "ENG": "Successfully Reverted In {0} Minutes!",
+            "SPAN": "¡Revertido con éxito en {0} minutos!"
+        },
+        "CompletedRevertSeconds": {
+            "ENG": "Successfully Reverted In {0} Seconds!",
+            "SPAN": "¡Revertido con éxito en {0} segundos!"
         }
     }
 }
