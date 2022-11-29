@@ -294,6 +294,48 @@
                 "ENG": "Change Language",
                 "SPAN": "Cambiar idioma"
             }
+        },
+        "ThemeView":{
+            "InterfaceColorsHeader": {
+                "ENG": "Interface Colors",
+                "SPAN": "Colores de la interfaz"
+            },
+            "MainColor": {
+                "ENG": "Main Color:",
+                "SPAN": "Color principal:"
+            },
+            "HighlightColor": {
+                "ENG": "Highlight Color:",
+                "SPAN": "Color de resaltado:"
+            },
+            "ButtonColor": {
+                "ENG": "Button Color:",
+                "SPAN": "Color del boton:"
+            },
+            "TextColor": {
+                "ENG": "Text Color:",
+                "SPAN": "Color de texto:"
+            },
+            "2ndTextColor": {
+                "ENG": "2nd Text Color:",
+                "SPAN": "Segundo color de texto:"
+            },
+            "CosmeticIconSizeHeader": {
+                "ENG": "Cosmetic Icon Size",
+                "SPAN": "Tamaño del icono cosmético"
+            },
+            "Size": {
+                "ENG": "Size: {0}",
+                "SPAN": "Tamaño: {0}"
+            },
+            "SizeDefault": {
+                "ENG": "Size: {0} (Default)",
+                "SPAN": "Tamaño: {0} (predeterminado)"
+            },
+            "ResetChanges": {
+                "ENG": "Reset Changes",
+                "SPAN": "Restablecer cambios"
+            }
         }
     },
     "Messages": {
