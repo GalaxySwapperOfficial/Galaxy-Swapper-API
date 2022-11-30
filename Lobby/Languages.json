@@ -295,7 +295,7 @@
                 "SPAN": "Cambiar idioma"
             }
         },
-        "ThemeView":{
+        "ThemeView": {
             "InterfaceColorsHeader": {
                 "ENG": "Interface Colors",
                 "SPAN": "Colores de la interfaz"
@@ -463,6 +463,14 @@
         "CompletedRevertSeconds": {
             "ENG": "Successfully Reverted In {0} Seconds!",
             "SPAN": "¡Revertido con éxito en {0} segundos!"
+        },
+        "InvalidHexColor": {
+            "ENG": "{0} Is not a valid hex color!",
+            "SPAN": "{0} ¡No es un color hexadecimal válido!"
+        },
+        "FailedToExport": {
+            "ENG": "Failed to export asset! Please try restarting then go to settings and clicking 'Verify Fortnite' then swap the cosmetic again!",
+            "SPAN": "¡Error al exportar el recurso! Intente reiniciar, luego vaya a la configuración y haga clic en 'Verificar Fortnite', ¡luego cambie el cosmético nuevamente!"
         }
     }
 }
