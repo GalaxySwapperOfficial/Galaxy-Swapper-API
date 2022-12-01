@@ -94,7 +94,8 @@
         },
         "DashboardView": {
             "Notes": {
-                "ENG": "[+] Jun-Hwan\n[+] Tackle Titan"
+                "ENG": "[!] Welcome to Galaxy Swapper Lobby test build!\n[+] Added all cosmetics",
+                "SPAN": "[!] ¡Bienvenido a la versión de prueba de Galaxy Swapper Lobby!\n[+] Se agregaron todos los cosméticos"
             },
             "PatchNotes": {
                 "ENG": "Patch Notes:",
