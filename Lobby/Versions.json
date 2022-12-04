@@ -5,7 +5,7 @@
    "Key":"https://link-to.net/98253/GalaxySwapperv2Key",
    "1.00":{
       "Warning":false,
-      "DownTime":false,
+      "DownTime":true,
       "Update":false,
       "UpdateRequried":false,
       "WarningInfo":{
@@ -13,8 +13,8 @@
          "Message":""
       },
       "DownTimeInfo":{
-         "Header":"",
-         "Message":""
+         "Header":"Galaxy Swapper is currently down until its updated for Fortnite Chapter 4! Please check back later or vist our discord for more information",
+         "Message":"Info"
       }
    }
 }
