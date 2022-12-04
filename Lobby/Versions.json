@@ -5,7 +5,7 @@
    "Key":"https://link-to.net/98253/GalaxySwapperv2Key",
    "1.00":{
       "Warning":false,
-      "DownTime":true,
+      "DownTime":false,
       "Update":false,
       "UpdateRequried":false,
       "WarningInfo":{
