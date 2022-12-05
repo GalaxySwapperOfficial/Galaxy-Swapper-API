@@ -1,13 +1,13 @@
 {
-   "Version":"2.0",
+   "Version":"2.01",
    "Discord":"https://discord.gg/rbAKZvbyj8",
    "DownloadLink":"https://link-target.net/98253/GalaxySwapperv2OfficialDownload",
    "LinkvertiseLink":"https://link-to.net/98253/GalaxySwapperv2Key",
    "DownloadDirectLink":"/Downloads/v2/Galaxy%20Swapper%20v2.zip",
    "Warning":false,
-   "Downtime":true,
+   "Downtime":false,
    "WarningInfo":{
-      "WarningMessage":"Backing Up Ucas Files Can Take Up To 5 Minutes!",
+      "WarningMessage":"",
       "WarningHeader":"Please Read:"
    },
    "DowntimeInfo":{
