@@ -1,16 +1,20 @@
 {
-  "2.10": {
-    "Warning": false,
-    "DownTime": false,
-    "Update": false,
-    "UpdateRequried": false,
-    "WarningInfo": {
-      "Header": "",
-      "Message": ""
-    },
-    "DownTimeInfo": {
-      "Header": "",
-      "Message": ""
-    }
-  }
+   "Discord":"https://discord.gg/rbAKZvbyj8",
+   "Website":"https://www.galaxyswapperv2.com/",
+   "Download":"https://link-target.net/98253/GalaxySwapperv2OfficialDownload",
+   "Key":"https://link-to.net/98253/GalaxySwapperv2Key",
+   "1.00":{
+      "Warning":false,
+      "DownTime":false,
+      "Update":false,
+      "UpdateRequried":false,
+      "WarningInfo":{
+         "Header":"",
+         "Message":""
+      },
+      "DownTimeInfo":{
+         "Header":"",
+         "Message":""
+      }
+   }
 }
