@@ -1,0 +1,16 @@
+[
+    {
+        "Type":null,
+        "IMG":"https://cdn.discordapp.com/attachments/935054396004380736/1049554842080784524/image.png",
+        "Header":"Welcome to dev test branch",
+        "Description":"What a cool description",
+        "URL":null
+    },
+    {
+        "Type":"FortniteNews",
+        "IMG":null,
+        "Header":"Fortnite News:",
+        "Description":"Latest Fortnite news powerd by Fortnite-API",
+        "URL":null
+    }
+]
