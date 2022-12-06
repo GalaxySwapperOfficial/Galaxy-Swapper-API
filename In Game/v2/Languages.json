@@ -9,36 +9,73 @@
             "Short": "SPAN"
         }
     ],
-    "Interface": {},
-    "Messages": {
-        "Headers": {
-            "Info": {
-                "ENG": "Info",
-                "SPAN": "Información"
-            },
-            "Error": {
-                "ENG": "Error"
-            },
-            "Warning": {
-                "ENG": "Warning",
-                "SPAN": "Advertencia"
-            },
-            "Question": {
-                "ENG": "Question",
-                "SPAN": "Pregunta"
+    "Interface": {
+        "Interface": {
+            "LoginPage": {
+                "Header": {
+                    "ENG": "Activate your key",
+                    "SPAN": "Activa tu clave",
+                    "RUS": "Активируйте свой ключ"
+                },
+                "Tip": {
+                    "ENG": "Don't have a key?",
+                    "SPAN": "¿No tienes una llave?",
+                    "RUS": "Нет ключа?"
+                },
+                "TipHyperlink": {
+                    "ENG": "Get a free key",
+                    "SPAN": "Obtenga una clave gratis",
+                    "RUS": "Получите бесплатный ключ"
+                },
+                "Help": {
+                    "ENG": "Need help?",
+                    "SPAN": "¿Necesitas ayuda?",
+                    "RUS": "Нужна помощь?"
+                },
+                "HelpHyperlink": {
+                    "ENG": "Join our discord",
+                    "SPAN": "Únase a nuestra discordia"
+                },
+                "Key": {
+                    "ENG": "Key",
+                    "SPAN": "Llave"
+                },
+                "ButtonActivate": {
+                    "ENG": "Activate",
+                    "SPAN": "Activar"
+                }
             }
         },
-        "LoginSuccess": {
-            "ENG": "Successfully activated key! Welcome to galaxy swapper.",
-            "SPAN": "¡Llave activada con éxito! Bienvenido a galaxy swapper."
-        },
-        "FortniteDirectoryEmpty": {
-            "ENG": "Fortnite directory is invalid or empty! To fix this, simply visit the settings tab and click the folder icon and select your Fortnite path.",
-            "SPAN": "¡El directorio de Fortnite no es válido o está vacío! Para solucionar esto, simplemente visite la pestaña de configuración y haga clic en el icono de la carpeta y seleccione su ruta de Fortnite."
-        },
-        "FortniteDirectoryInvalid": {
-            "ENG": "Fortnite directory no longer exists on this PC! To fix this, simply visit the settings tab and click the folder icon and select your Fortnite path.",
-            "SPAN": "¡El directorio de Fortnite ya no existe en esta PC! Para solucionar esto, simplemente visite la pestaña de configuración y haga clic en el icono de la carpeta y seleccione su ruta de Fortnite."
+        "Messages": {
+            "Headers": {
+                "Info": {
+                    "ENG": "Info",
+                    "SPAN": "Información"
+                },
+                "Error": {
+                    "ENG": "Error"
+                },
+                "Warning": {
+                    "ENG": "Warning",
+                    "SPAN": "Advertencia"
+                },
+                "Question": {
+                    "ENG": "Question",
+                    "SPAN": "Pregunta"
+                }
+            },
+            "LoginSuccess": {
+                "ENG": "Successfully activated key! Welcome to galaxy swapper.",
+                "SPAN": "¡Llave activada con éxito! Bienvenido a galaxy swapper."
+            },
+            "FortniteDirectoryEmpty": {
+                "ENG": "Fortnite directory is invalid or empty! To fix this, simply visit the settings tab and click the folder icon and select your Fortnite path.",
+                "SPAN": "¡El directorio de Fortnite no es válido o está vacío! Para solucionar esto, simplemente visite la pestaña de configuración y haga clic en el icono de la carpeta y seleccione su ruta de Fortnite."
+            },
+            "FortniteDirectoryInvalid": {
+                "ENG": "Fortnite directory no longer exists on this PC! To fix this, simply visit the settings tab and click the folder icon and select your Fortnite path.",
+                "SPAN": "¡El directorio de Fortnite ya no existe en esta PC! Para solucionar esto, simplemente visite la pestaña de configuración y haga clic en el icono de la carpeta y seleccione su ruta de Fortnite."
+            }
         }
     }
 }
