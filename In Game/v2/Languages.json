@@ -1,0 +1,38 @@
+{
+    "Options": [
+        {
+            "Name": "English (Default)",
+            "Short": "ENG"
+        },
+        {
+            "Name": "Spanish",
+            "Short": "SPAN"
+        }
+    ],
+    "Interface": {
+
+    },
+    "Messages": {
+        "Headers": {
+            "Info": {
+                "ENG": "Info",
+                "SPAN": "Información"
+            },
+            "Error": {
+                "ENG": "Error"
+            },
+            "Warning": {
+                "ENG": "Warning",
+                "SPAN": "Advertencia"
+            },
+            "Question": {
+                "ENG": "Question",
+                "SPAN": "Pregunta"
+            }
+        },
+        "LoginSuccess": {
+            "ENG": "Successfully activated key! Welcome to galaxy swapper.",
+            "SPAN": "¡Llave activada con éxito! Bienvenido a galaxy swapper."
+        }
+    }
+}
