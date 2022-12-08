@@ -10,72 +10,533 @@
         }
     ],
     "Interface": {
-        "Interface": {
-            "LoginPage": {
-                "Header": {
-                    "ENG": "Activate your key",
-                    "SPAN": "Activa tu clave",
-                    "RUS": "Активируйте свой ключ"
-                },
-                "Tip": {
-                    "ENG": "Don't have a key?",
-                    "SPAN": "¿No tienes una llave?",
-                    "RUS": "Нет ключа?"
-                },
-                "TipHyperlink": {
-                    "ENG": "Get a free key",
-                    "SPAN": "Obtenga una clave gratis",
-                    "RUS": "Получите бесплатный ключ"
-                },
-                "Help": {
-                    "ENG": "Need help?",
-                    "SPAN": "¿Necesitas ayuda?",
-                    "RUS": "Нужна помощь?"
-                },
-                "HelpHyperlink": {
-                    "ENG": "Join our discord",
-                    "SPAN": "Únase a nuestra discordia"
-                },
-                "Key": {
-                    "ENG": "Key",
-                    "SPAN": "Llave"
-                },
-                "ButtonActivate": {
-                    "ENG": "Activate",
-                    "SPAN": "Activar"
-                }
+        "LoginPage": {
+            "Title": {
+                "ENG": "Galaxy Swapper v2"
+            },
+            "Header": {
+                "ENG": "Activate your key",
+                "SPAN": "Activa tu clave"
+            },
+            "Tip": {
+                "ENG": "Don't have a key?",
+                "SPAN": "¿No tienes una llave?"
+            },
+            "TipHyperlink": {
+                "ENG": "Get a free key",
+                "SPAN": "Obtenga una clave gratis"
+            },
+            "Help": {
+                "ENG": "Need help?",
+                "SPAN": "¿Necesitas ayuda?"
+            },
+            "HelpHyperlink": {
+                "ENG": "Join our discord",
+                "SPAN": "Únase a nuestra discordia"
+            },
+            "Key": {
+                "ENG": "Key:",
+                "SPAN": "Llave:"
+            },
+            "ButtonActivate": {
+                "ENG": "Activate",
+                "SPAN": "Activar"
             }
         },
-        "Messages": {
-            "Headers": {
-                "Info": {
-                    "ENG": "Info",
-                    "SPAN": "Información"
-                },
-                "Error": {
-                    "ENG": "Error"
-                },
-                "Warning": {
-                    "ENG": "Warning",
-                    "SPAN": "Advertencia"
-                },
-                "Question": {
-                    "ENG": "Question",
-                    "SPAN": "Pregunta"
-                }
+        "MainView": {
+            "Dashboard": {
+                "ENG": "Dashboard",
+                "SPAN": "Tablero"
             },
-            "LoginSuccess": {
-                "ENG": "Successfully activated key! Welcome to galaxy swapper.",
-                "SPAN": "¡Llave activada con éxito! Bienvenido a galaxy swapper."
+            "Skins": {
+                "ENG": "Skins",
+                "SPAN": "Pieles"
             },
-            "FortniteDirectoryEmpty": {
-                "ENG": "Fortnite directory is invalid or empty! To fix this, simply visit the settings tab and click the folder icon and select your Fortnite path.",
-                "SPAN": "¡El directorio de Fortnite no es válido o está vacío! Para solucionar esto, simplemente visite la pestaña de configuración y haga clic en el icono de la carpeta y seleccione su ruta de Fortnite."
+            "Backblings": {
+                "ENG": "Back Blings",
+                "SPAN": "Adornos traseros"
             },
-            "FortniteDirectoryInvalid": {
-                "ENG": "Fortnite directory no longer exists on this PC! To fix this, simply visit the settings tab and click the folder icon and select your Fortnite path.",
-                "SPAN": "¡El directorio de Fortnite ya no existe en esta PC! Para solucionar esto, simplemente visite la pestaña de configuración y haga clic en el icono de la carpeta y seleccione su ruta de Fortnite."
+            "Pickaxes": {
+                "ENG": "Pickaxes",
+                "SPAN": "picos"
+            },
+            "Emotes": {
+                "ENG": "Emotes",
+                "SPAN": "Danzas"
+            },
+            "Wraps": {
+                "ENG": "Weapons",
+                "SPAN": "armas"
+            },
+            "Plugins": {
+                "ENG": "Plugins",
+                "SPAN": "Complementos"
+            },
+            "Misc": {
+                "ENG": "Misc",
+                "SPAN": "Varios"
+            },
+            "Settings": {
+                "ENG": "Settings",
+                "SPAN": "Ajustes"
+            },
+            "Discord": {
+                "ENG": "Discord"
+            },
+            "EXTRA": {
+                "ENG": "EXTRA"
+            },
+            "Search": {
+                "ENG": "Search",
+                "SPAN": "Búsqueda"
             }
+        },
+        "DashboardView": {
+            "Notes": {
+                "ENG": "[!] Welcome to dev branch!"
+            },
+            "PatchNotes": {
+                "ENG": "Patch Notes:",
+                "SPAN": "Notas del parche:"
+            },
+            "MoreNews": {
+                "ENG": "More News:",
+                "SPAN": "Mas noticias:"
+            },
+            "Copyright": {
+                "ENG": "Galaxy Swapper v2"
+            },
+            "Credits": {
+                "ENG": "Created by Wslt#7904",
+                "SPAN": "Creado por Wslt#7904"
+            }
+        },
+        "SettingsView": {
+            "FolderBrowserDialogDescription": {
+                "ENG": "Select your Fortnite install location",
+                "SPAN": "Seleccione su ubicación de instalación de Fortnite"
+            },
+            "FortniteInstallHeader": {
+                "ENG": "Fortnite Install Location",
+                "SPAN": "Ubicación de instalación de Fortnite"
+            },
+            "FortniteInstallDescription": {
+                "ENG": "Need to change your Fortnite install location? Click the folder!",
+                "SPAN": "¿Necesitas cambiar tu ubicación de instalación de Fortnite? ¡Haz clic en la carpeta!"
+            },
+            "LanguageHeader": {
+                "ENG": "Language",
+                "SPAN": "Idioma"
+            },
+            "LanguageDescription": {
+                "ENG": "Need to change your language? Click 'Change Language'",
+                "SPAN": "¿Necesitas cambiar tu idioma? Haga clic en 'Cambiar idioma'"
+            },
+            "EditLanguage": {
+                "ENG": "Change Language",
+                "SPAN": "Cambiar idioma"
+            },
+            "AccountInfoHeader": {
+                "ENG": "Account Info",
+                "SPAN": "Informacion de cuenta"
+            },
+            "AccountInfoDescription": {
+                "ENG": "Want to know how long you have left on your key? Here you go.",
+                "SPAN": "¿Quieres saber cuánto tiempo te queda en tu llave? Aquí tienes."
+            },
+            "Username": {
+                "ENG": "Username: {0}",
+                "SPAN": "Nombre de usuario: {0}"
+            },
+            "DaysLeft": {
+                "ENG": "Days Left: {0}",
+                "SPAN": "Días restantes: {0}"
+            },
+            "ExpiresOn": {
+                "ENG": "Expires On: {0}",
+                "SPAN": "Caduca el: {0}"
+            },
+            "FortniteHeader": {
+                "ENG": "Fortnite"
+            },
+            "FortniteDescription": {
+                "ENG": "Having issues with fortnite? This is the spot to go.",
+                "SPAN": "¿Tienes problemas con fortnite? Este es el lugar para ir."
+            },
+            "StartFortnite": {
+                "ENG": "Start Fortnite",
+                "SPAN": "Iniciar Fortnite"
+            },
+            "CloseFortnite": {
+                "ENG": "Close Fortnite",
+                "SPAN": "Cerrar Fortnite"
+            },
+            "RemoveDupedUcas": {
+                "ENG": "Remove Duped Ucas",
+                "SPAN": "Eliminar Duped Ucas"
+            },
+            "VerifyFortnite": {
+                "ENG": "Verify Fortnite",
+                "SPAN": "Verificar Fortnite"
+            },
+            "ConvertedItemsHeader": {
+                "ENG": "Converted Items",
+                "SPAN": "Artículos convertidos"
+            },
+            "ConvertedItemsDescription": {
+                "ENG": "Forgot what you swapped? Well here you go.",
+                "SPAN": "¿Olvidaste lo que cambiaste? Bueno, aquí tienes."
+            },
+            "ItemsSwapped": {
+                "ENG": "Items Swapped: {0}",
+                "SPAN": "Artículos intercambiados: {0}"
+            },
+            "Show": {
+                "ENG": "Show",
+                "SPAN": "Espectáculo"
+            },
+            "Reset": {
+                "ENG": "Reset",
+                "SPAN": "Reiniciar"
+            },
+            "MiscellaneousHeader": {
+                "ENG": "Miscellaneous",
+                "SPAN": "Misceláneos"
+            },
+            "MiscellaneousDescription": {
+                "ENG": "Some more advanced options just for you!",
+                "SPAN": "¡Algunas opciones más avanzadas solo para ti!"
+            },
+            "ThemeEditor": {
+                "ENG": "Theme Editor",
+                "SPAN": "Editor de temas"
+            },
+            "RefreshCosmeticTabs": {
+                "ENG": "Refresh Cosmetics",
+                "SPAN": "Cosméticos refrescantes"
+            },
+            "DiscordRichPresence": {
+                "ENG": "Discord Rich Presence",
+                "SPAN": "Presencia rica en discordia"
+            },
+            "AutoCloseFortnite": {
+                "ENG": "Auto Close Fortnite",
+                "SPAN": "Cierre automático Fortnite"
+            },
+            "LowQualityIcons": {
+                "ENG": "Low Quality Icons",
+                "SPAN": "Iconos de baja calidad"
+            },
+            "EmoteWarning": {
+                "ENG": "Emote Warning",
+                "SPAN": "Advertencia de emoticonos"
+            }
+        },
+        "OptionsView": {
+            "Header": {
+                "ENG": "What option would you like to swap?",
+                "SPAN": "¿Qué opción te gustaría cambiar?"
+            },
+            "Tip": {
+                "ENG": "You must own the cosmetic you select!",
+                "SPAN": "¡Debes tener el cosmético que selecciones!"
+            }
+        },
+        "SwapView": {
+            "Convert": {
+                "ENG": "Convert",
+                "SPAN": "Convertir"
+            },
+            "Revert": {
+                "ENG": "Revert",
+                "SPAN": "Revertir"
+            },
+            "DefaultLOG": {
+                "ENG": "Waiting for input..",
+                "SPAN": "Esperando entrada.."
+            },
+            "ON": {
+                "ENG": "ON",
+                "SPAN": "EN"
+            },
+            "OFF": {
+                "ENG": "OFF",
+                "SPAN": "APAGADO"
+            },
+            "CompletedMinutes": {
+                "ENG": "Completed In {0}:{1}",
+                "SPAN": "Completado en {0}:{1}"
+            },
+            "CompletedSeconds": {
+                "ENG": "Completed In 0:{0}",
+                "SPAN": "Completado en 0:{0}"
+            },
+            "Provider": {
+                "ENG": "Initializing Provider",
+                "SPAN": "Inicializando proveedor"
+            },
+            "Disposing": {
+                "ENG": "Disposing Provider",
+                "SPAN": "Proveedor de eliminación"
+            },
+            "Exporting": {
+                "ENG": "Exporting {0}",
+                "SPAN": "Exportador {0}"
+            },
+            "Parse": {
+                "ENG": "Parsing {0}",
+                "SPAN": "análisis {0}"
+            },
+            "IfAnylength": {
+                "ENG": "Determining any length",
+                "SPAN": "Determinación de cualquier longitud"
+            },
+            "StartingNormal": {
+                "ENG": "Starting swap as normal",
+                "SPAN": "Comenzando el intercambio como de costumbre"
+            },
+            "StartingAnyLength": {
+                "ENG": "Starting swap as any length",
+                "SPAN": "Intercambio inicial como cualquier longitud"
+            },
+            "TypeString": {
+                "ENG": "Swapping as string",
+                "SPAN": "Intercambio como cadena"
+            },
+            "TypeHex": {
+                "ENG": "Swapping as hex",
+                "SPAN": "Intercambio como hexadecimal"
+            },
+            "FailedStringAnyLength": {
+                "ENG": "Failed to allocate length with strings",
+                "SPAN": "Error al asignar longitud con cadenas"
+            },
+            "FailedTeleAnyLength": {
+                "ENG": "Failed to allocate length with Tele",
+                "SPAN": "No se pudo asignar la longitud con Tele"
+            },
+            "FailedCompress": {
+                "ENG": "Failed To Fix Compression Length",
+                "SPAN": "Error al corregir la longitud de compresión"
+            },
+            "BackingUp": {
+                "ENG": "Backing up Pakchunks",
+                "SPAN": "Copia de seguridad de Pakchunks"
+            },
+            "BackingUpName": {
+                "ENG": "Backing up {0}",
+                "SPAN": "Copia de seguridad {0}"
+            },
+            "BackupWarning": {
+                "ENG": "BACKING UP FILES CAN TAKE UP TO 5/10 MINUTES"
+            },
+            "BackupOutOfSpace": {
+                "ENG": "{0} Has ran out of space!",
+                "SPAN": "{0} ¡Se ha quedado sin espacio!"
+            },
+            "GameFilesInUse": {
+                "ENG": "Game files in use!",
+                "SPAN": "¡Archivos de juego en uso!"
+            },
+            "EditingPakChunk": {
+                "ENG": "Editing {0}",
+                "SPAN": "Editando {0}"
+            },
+            "StartConverting": {
+                "ENG": "Starting to convert",
+                "SPAN": "Comenzando a convertir"
+            },
+            "StartReverting": {
+                "ENG": "Starting to revert",
+                "SPAN": "Empezando a revertir"
+            },
+            "ConvertingCount": {
+                "ENG": "Converting asset {0}",
+                "SPAN": "Convirtiendo activo {0}"
+            },
+            "RevertingCount": {
+                "ENG": "Reverting asset {0}",
+                "SPAN": "Revirtiendo activo {0}"
+            }
+        },
+        "LanguageView": {
+            "ChangeLanguage": {
+                "ENG": "Change Language",
+                "SPAN": "Cambiar idioma"
+            }
+        },
+        "ThemeView": {
+            "InterfaceColorsHeader": {
+                "ENG": "Interface Colors",
+                "SPAN": "Colores de la interfaz"
+            },
+            "MainColor": {
+                "ENG": "Main Color:",
+                "SPAN": "Color principal:"
+            },
+            "HighlightColor": {
+                "ENG": "Highlight Color:",
+                "SPAN": "Color de resaltado:"
+            },
+            "ButtonColor": {
+                "ENG": "Button Color:",
+                "SPAN": "Color del boton:"
+            },
+            "TextColor": {
+                "ENG": "Text Color:",
+                "SPAN": "Color de texto:"
+            },
+            "2ndTextColor": {
+                "ENG": "2nd Text Color:",
+                "SPAN": "Segundo color de texto:"
+            },
+            "CosmeticIconSizeHeader": {
+                "ENG": "Cosmetic Icon Size",
+                "SPAN": "Tamaño del icono cosmético"
+            },
+            "Size": {
+                "ENG": "Size: {0}",
+                "SPAN": "Tamaño: {0}"
+            },
+            "SizeDefault": {
+                "ENG": "Size: {0} (Default)",
+                "SPAN": "Tamaño: {0} (predeterminado)"
+            },
+            "ResetChanges": {
+                "ENG": "Reset Changes",
+                "SPAN": "Restablecer cambios"
+            }
+        }
+    },
+    "Messages": {
+        "Headers": {
+            "Info": {
+                "ENG": "Info",
+                "SPAN": "Información"
+            },
+            "Error": {
+                "ENG": "Error"
+            },
+            "Warning": {
+                "ENG": "Warning",
+                "SPAN": "Advertencia"
+            },
+            "Question": {
+                "ENG": "Question",
+                "SPAN": "Pregunta"
+            }
+        },
+        "LoginSuccess": {
+            "ENG": "Successfully activated key! Welcome to galaxy swapper.",
+            "SPAN": "¡Llave activada con éxito! Bienvenido a galaxy swapper."
+        },
+        "LoginFailed": {
+            "ENG": "Key is invalid! Please check if you inputed it correctly.",
+            "SPAN": "¡La clave no es válida! Por favor, compruebe si lo ha introducido correctamente."
+        },
+        "LoginFailedConnect": {
+            "ENG": "Failed to activate key! Please try disabling windows firewall and ensure you have a stable connection and try again.",
+            "SPAN": "¡Error al activar la clave! Intente deshabilitar el firewall de Windows y asegúrese de tener una conexión estable y vuelva a intentarlo."
+        },
+        "FortniteDirectoryEmpty": {
+            "ENG": "Fortnite directory is invalid or empty! To fix this, simply visit the settings tab and click the folder icon and select your Fortnite path.",
+            "SPAN": "¡El directorio de Fortnite no es válido o está vacío! Para solucionar esto, simplemente visite la pestaña de configuración y haga clic en el icono de la carpeta y seleccione su ruta de Fortnite."
+        },
+        "FortniteDirectoryInvalid": {
+            "ENG": "Fortnite directory no longer exists on this PC! To fix this, simply visit the settings tab and click the folder icon and select your Fortnite path.",
+            "SPAN": "¡El directorio de Fortnite ya no existe en esta PC! Para solucionar esto, simplemente visite la pestaña de configuración y haga clic en el icono de la carpeta y seleccione su ruta de Fortnite."
+        },
+        "WorkerBusy": {
+            "ENG": "Convert worker is already running! Please wait for the swap to complete before interacting again.",
+            "SPAN": "¡Convertir trabajador ya se está ejecutando! Espere a que se complete el intercambio antes de volver a interactuar."
+        },
+        "CompletedSwapMinutes": {
+            "ENG": "Successfully Converted In {0} Minutes!",
+            "SPAN": "¡Convertido con éxito en {0} minutos!"
+        },
+        "CompletedSwapSeconds": {
+            "ENG": "Successfully Converted In {0} Seconds!",
+            "SPAN": "¡Convertido con éxito en {0} segundos!"
+        },
+        "CompletedRevertMinutes": {
+            "ENG": "Successfully Reverted In {0} Minutes!",
+            "SPAN": "¡Revertido con éxito en {0} minutos!"
+        },
+        "CompletedRevertSeconds": {
+            "ENG": "Successfully Reverted In {0} Seconds!",
+            "SPAN": "¡Revertido con éxito en {0} segundos!"
+        },
+        "FailedTeleAnyLength": {
+            "ENG": "Failed to allocate length with tele and strings! Please adjust replace strings for more length.\n\nNeeded {0} more characters.",
+            "SPAN": "¡No se pudo asignar la longitud con tele y cuerdas! Ajuste las cadenas de reemplazo para obtener más longitud.\n\nSe necesitan {0} caracteres más."
+        },
+        "CompressionLength": {
+            "ENG": "Compressed asset is bigger then orginal! please attempt to shorted strings of the asset.\n\nCompressed Asset:{0}\nOrignal Asset:{1}",
+            "SPAN": "¡El activo comprimido es más grande que el original! intente acortar las cadenas del activo.\n\nActivo comprimido:{0}\nActivo original:{1}"
+        },
+        "BackupOutOfSpace": {
+            "ENG": "{0} Has Ran Out Of Storage! Please Make Some More Room Before Swapping.",
+            "SPAN": "¡{0} se ha quedado sin almacenamiento! Por favor, haga más espacio antes de cambiar."
+        },
+        "GameFilesInUse": {
+            "ENG": "{0}\nIs currently in use by another process? Please make sure Fortnite is closed or any other processes that will use your game files!",
+            "SPAN": "{0}\n¿Está siendo utilizado actualmente por otro proceso? ¡Asegúrate de que Fortnite esté cerrado o cualquier otro proceso que use tus archivos de juego!"
+        },
+        "InvalidHexColor": {
+            "ENG": "{0} Is not a valid hex color!",
+            "SPAN": "{0} ¡No es un color hexadecimal válido!"
+        },
+        "EmoteWarning": {
+            "ENG": "DO NOT put swapped emotes in your emote wheel! You can favorite the emote to find it faster.",
+            "SPAN": "¡NO pongas emotes intercambiados en tu rueda de emotes! Puedes marcar el emoticón como favorito para encontrarlo más rápido."
+        },
+        "ClosedFortnite": {
+            "ENG": "Successfully closed Fortnite!",
+            "SPAN": "¡Fortnite cerrado con éxito!"
+        },
+        "RemovedDupedUcas": {
+            "ENG": "Successfully removed duped ucas!",
+            "SPAN": "Eliminado con éxito ucas duplicados"
+        },
+        "RemovedDupedUcasError": {
+            "ENG": "Caught a error while trying to delete duped ucas!\n{0}\nPlease make sure Fortnite is closed and try restarting the swapper.",
+            "SPAN": "¡Obtuve un error al intentar eliminar ucas duplicadas!\n{0}\nAsegúrate de que Fortnite esté cerrado e intenta reiniciar el intercambiador."
+        },
+        "Verify": {
+            "ENG": "We are now redirecting you to Epic Games verification! If Epic Games Launcher does not open by itself, then open it manually.",
+            "SPAN": "¡Ahora lo estamos redirigiendo a la verificación de Epic Games! Si Epic Games Launcher no se abre solo, ábralo manualmente."
+        },
+        "RefreshCosmetics": {
+            "ENG": "Successfully refreshed cosmetic tabs!",
+            "SPAN": "¡Pestañas cosméticas actualizadas con éxito!"
+        },
+        "ConvertedItems": {
+            "ENG": "Converted items:\n{0}\nPakchunks in use:\n{1}",
+            "SPAN": "Elementos convertidos:\n{0}\nPakchunks en uso:\n{1}"
+        },
+        "ResetConvertedItemsWarning": {
+            "ENG": "Are you sure you want to reset converted items?\n(This will not remove the cosmetics from your game this will only reset converted items list)",
+            "SPAN": "¿Está seguro de que desea restablecer los elementos convertidos?\n(Esto no eliminará los cosméticos de su juego, solo restablecerá la lista de elementos convertidos)"
+        },
+        "ResetConvertedItems": {
+            "ENG": "Successfully reset converted items!",
+            "SPAN": "¡Restablecer con éxito los elementos convertidos!"
+        },
+        "ValidSelection": {
+            "ENG": "Successfully updated Fortnite install location to:\n{0}",
+            "SPAN": "Ubicación de instalación de Fortnite actualizada con éxito a:\n{0}"
+        },
+        "NotValidSelection": {
+            "ENG": "The selected location is not a valid Fortnite install path! Please make sure you are selected the correct folder.",
+            "SPAN": "¡La ubicación seleccionada no es una ruta de instalación de Fortnite válida! Por favor, asegúrese de haber seleccionado la carpeta correcta."
+        },
+        "ToManyPaks": {
+            "ENG": "You have to many PakChunks in use. Swapping this item will kick you from the match! If you want to swap this item please revert a item you already have swapped.",
+            "SPAN": "Tienes muchos PakChunks en uso. ¡Cambiar este artículo te expulsará del partido! Si desea intercambiar este artículo, revierta un artículo que ya haya intercambiado."
+        },
+        "ToManyCosmetics": {
+            "ENG": "You have over 8 items swapped! If you swap this item you might get kicked from the match.",
+            "SPAN": "¡Tienes más de 8 artículos intercambiados! Si cambia este elemento, es posible que lo expulsen del partido."
         }
     }
 }
