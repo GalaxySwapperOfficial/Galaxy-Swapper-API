@@ -1,0 +1,126 @@
+{
+   "High": "https://fortnite-api.com/images/cosmetics/br/{0}/icon.png",
+   "Low": "https://fortnite-api.com/images/cosmetics/br/{0}/smallicon.png",
+   "Skins": {
+      "Frontend": [
+         {
+            "Name": "Renegade Raider",
+            "ID": "CID_028_Athena_Commando_F"
+         }
+      ],
+      "Options": {
+         "Renegade Raider:CID_028_Athena_Commando_F": [
+            {
+               "Name": "Redline",
+               "ID": "CID_162_Athena_Commando_F_StreetRacer",
+               "Message": "false",
+               "Assets": [
+                  {
+                     "CompressionType": "oodle",
+                     "AssetPath": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StreetRacer",
+                     "AssetUcas": "pakchunk10-WindowsClient",
+                     "Swaps": [
+                        {
+                           "type": "string",
+                           "search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Female_Commando_StreetRacerBlack/Materials/F_MED___StreetRacerBlack.F_MED___StreetRacerBlack",
+                           "replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_20/Materials/F_MED_Commando_Body_TV20.F_MED_Commando_Body_TV20"
+                        }
+                     ]
+                  },
+                  {
+                     "CompressionType": "oodle",
+                     "AssetPath": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_StreetRacer",
+                     "AssetUcas": "pakchunk10-WindowsClient",
+                     "Swaps": [
+                        {
+                           "type": "string",
+                           "search": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/MI_VertexCrunch.MI_VertexCrunch",
+                           "replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Materials/F_MED_ASN_Sarah_Head_02.F_MED_ASN_Sarah_Head_02"
+                        },
+                        {
+                           "type": "string",
+                           "search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Female_Commando_StreetRacerBlack/Materials/F_MED_StreetRacerBlack_Head_01.F_MED_StreetRacerBlack_Head_01",
+                           "replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Materials/F_MED_ASN_Sarah_Hair_01.F_MED_ASN_Sarah_Hair_01"
+                        },
+                        {
+                           "type": "string",
+                           "search": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01.F_MED_HIS_Ramirez_Head_01",
+                           "replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Meshes/F_MED_ASN_Sarah_Head_01.F_MED_ASN_Sarah_Head_01"
+                        },
+                        {
+                           "type": "string",
+                           "search": "/Game/Characters/CharacterColorSwatches/Skin/F_Med_HIS_StreetRacerBlack.F_Med_HIS_StreetRacerBlack",
+                           "replace": "/Game/Characters/CharacterColorSwatches/Skin/F_Med_ASN_Sarah.F_Med_ASN_Sarah"
+                        }
+                     ]
+                  },
+                  {
+                     "CompressionType": "oodle",
+                     "AssetPath": "/Game/Characters/CharacterParts/Hats/CP_Hat_F_Commando_StreetRacer",
+                     "AssetUcas": "pakchunk10-WindowsClient",
+                     "Swaps": [
+                        {
+                           "type": "string",
+                           "search": "/Game/Accessories/Hats/Materials/Hat_F_StreetRacerBlack.Hat_F_StreetRacerBlack",
+                           "replace": "/Game/Accessories/Hats/Materials/Female_Commando_07_V01.Female_Commando_07_V01"
+                        },
+                        {
+                           "type": "string",
+                           "search": "/Game/Accessories/Hats/Mesh/Female_Outlander_06.Female_Outlander_06",
+                           "replace": "/Game/Accessories/Hats/Mesh/Female_Commando_08.Female_Commando_08"
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      }
+   },
+   "BackBlings": {
+      "Frontend": [
+         {
+            "Name": "Black Shield",
+            "ID": "BID_004_BlackKnight"
+         }
+      ],
+      "Options": {
+         "Black Shield:BID_004_BlackKnight": [
+            {
+               "Name": "Black Shield",
+               "ID": "BID_003_RedKnight",
+               "Message": "false",
+               "Assets": [
+                  {
+                     "CompressionType": "oodle",
+                     "AssetPath": "/Game/Characters/CharacterParts/Backpacks/Male_Commando_BlackKnight_V01",
+                     "AssetUcas": "pakchunk10-WindowsClient",
+                     "Swaps": [
+                        {
+                           "type": "string",
+                           "search": "/Game/Accessories/FORT_Backpacks/Materials/Male_Commando_BR_BlackknightV01.Male_Commando_BR_BlackknightV01",
+                           "replace": "/Game/Accessories/FORT_Backpacks/Materials/Male_Commando_BR_Blackknight.Male_Commando_BR_Blackknight"
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      }
+   },
+   "Pickaxes": {
+      "Frontend": [],
+      "Options": {}
+   },
+   "Emotes": {
+      "Frontend": [],
+      "Options": {}
+   },
+   "Wraps": {
+      "Frontend": [],
+      "Options": {}
+   },
+   "Misc": {
+      "Frontend": [],
+      "Options": {}
+   }
+}
