@@ -410,6 +410,16 @@
                 "ENG": "Reset Changes",
                 "SPAN": "Restablecer cambios"
             }
+        },
+        "PluginsView": {
+            "FileDialog": {
+                "ENG": "Select a plugin file!",
+                "SPAN": "¡Seleccione un archivo de complemento!"
+            },
+            "Tip": {
+                "ENG": "Drag and drop plugins below!",
+                "SPAN": "¡Arrastra y suelta los complementos a continuación!"
+            }
         }
     },
     "Messages": {
@@ -545,6 +555,14 @@
         "FailedToExport": {
             "ENG": "Failed to export asset! Please try restarting then go to settings and clicking 'Verify Fortnite' then swap the cosmetic again!",
             "SPAN": "¡Error al exportar el recurso! Intente reiniciar, luego vaya a la configuración y haga clic en 'Verificar Fortnite', ¡luego cambie el cosmético nuevamente!"
+        },
+        "PluginJsonInvalid": {
+            "ENG": "{0}\nPlugin file is not in a valid json format!",
+            "SPAN": "{0}\n¡El archivo del complemento no tiene un formato json válido!"
+        },
+        "PluginDoesNotContain": {
+            "ENG": "{0}\nPlugin file does not contain {1}!",
+            "SPAN": "{0}\n¡El archivo de complemento no contiene {1}!"
         }
     }
 }
