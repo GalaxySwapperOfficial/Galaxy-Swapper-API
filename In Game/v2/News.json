@@ -1,16 +1,16 @@
 [
     {
-        "Type":null,
-        "IMG":"https://cdn.discordapp.com/attachments/1006267330399060018/1050620236711333959/NEws.png",
-        "Header":"Welcome to version 1.00!",
-        "Description":"Whats new?\nWe have added many new features including language selection, splash screen and remastered our dashboard, settings, theme editor and more! We are hoping these changes will bring a new fresh look to Galaxy Swapper v2!",
-        "URL":null
+        "Type": null,
+        "IMG": "https://cdn.discordapp.com/attachments/1006267330399060018/1050620236711333959/NEws.png",
+        "Header": "Welcome to version 1.00!",
+        "Description": "Whats new?\nWe have added many new features including language selection,\nsplash screen and remastered our dashboard, settings, themes and more!\nWe are hoping these changes will bring a new fresh look to Galaxy Swapper!",
+        "URL": "https://www.galaxyswapperv2.com/"
     },
     {
-        "Type":"FortniteNews",
-        "IMG":null,
-        "Header":"Fortnite News:",
-        "Description":"Latest Fortnite news powerd by Fortnite-API",
-        "URL":null
+        "Type": "FortniteNews",
+        "IMG": null,
+        "Header": "Fortnite News:",
+        "Description": "Latest Fortnite news powerd by Fortnite-API",
+        "URL": null
     }
 ]
