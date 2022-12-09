@@ -93,7 +93,7 @@
         },
         "DashboardView": {
             "Notes": {
-                "ENG": "[!] Welcome to dev branch!"
+                "ENG": "[!] Fixed Skins\n[!] Fixed Back Blings\n[!] Fixed Pickaxes\n[!] Fixed Emotes\n[?] Disabled Wraps\n[?] Disabled Misc\n[?] Disabled Plugins"
             },
             "PatchNotes": {
                 "ENG": "Patch Notes:",
@@ -287,17 +287,9 @@
                 "ENG": "Parsing {0}",
                 "SPAN": "análisis {0}"
             },
-            "IfAnylength": {
-                "ENG": "Determining any length",
-                "SPAN": "Determinación de cualquier longitud"
-            },
-            "StartingNormal": {
-                "ENG": "Starting swap as normal",
-                "SPAN": "Comenzando el intercambio como de costumbre"
-            },
-            "StartingAnyLength": {
-                "ENG": "Starting swap as any length",
-                "SPAN": "Intercambio inicial como cualquier longitud"
+            "StartingSwap": {
+                "ENG": "Starting swap",
+                "SPAN": "Comenzando intercambio"
             },
             "TypeString": {
                 "ENG": "Swapping as string",
@@ -318,6 +310,18 @@
             "FailedCompress": {
                 "ENG": "Failed To Fix Compression Length",
                 "SPAN": "Error al corregir la longitud de compresión"
+            },
+            "AdjustingLength": {
+                "ENG": "Adjusting length of asset",
+                "SPAN": "Ajuste de la longitud del activo"
+            },
+            "InvalidatingPartData": {
+                "ENG": "Invalidating partdata",
+                "SPAN": "Invalidación de datos de pieza"
+            },
+            "CompressingAsset": {
+                "ENG": "Compressing asset",
+                "SPAN": "Compresión de activos"
             },
             "BackingUp": {
                 "ENG": "Backing up Pakchunks",
@@ -537,6 +541,10 @@
         "ToManyCosmetics": {
             "ENG": "You have over 8 items swapped! If you swap this item you might get kicked from the match.",
             "SPAN": "¡Tienes más de 8 artículos intercambiados! Si cambia este elemento, es posible que lo expulsen del partido."
+        },
+        "FailedToExport": {
+            "ENG": "Failed to export asset! Please try restarting then go to settings and clicking 'Verify Fortnite' then swap the cosmetic again!",
+            "SPAN": "¡Error al exportar el recurso! Intente reiniciar, luego vaya a la configuración y haga clic en 'Verificar Fortnite', ¡luego cambie el cosmético nuevamente!"
         }
     }
 }
