@@ -7,6 +7,10 @@
         {
             "Name": "Spanish",
             "Short": "SPAN"
+        },
+        {
+            "Name": "Polski",
+            "Short": "POL"
         }
     ],
     "Interface": {
@@ -16,409 +20,506 @@
             },
             "Header": {
                 "ENG": "Activate your key",
-                "SPAN": "Activa tu clave"
+                "SPAN": "Activa tu clave",
+                "POL": "Aktywuj klucz"
             },
             "Tip": {
                 "ENG": "Don't have a key?",
-                "SPAN": "¿No tienes una llave?"
+                "SPAN": "¿No tienes una llave?",
+                "POL": "Nie masz klucza aktywacyjnego?"
             },
             "TipHyperlink": {
                 "ENG": "Get a free key",
-                "SPAN": "Obtenga una clave gratis"
+                "SPAN": "Obtenga una clave gratis",
+                "POL": "Zdobądź darmowy klucz aktywacyjny"
             },
             "Help": {
                 "ENG": "Need help?",
-                "SPAN": "¿Necesitas ayuda?"
+                "SPAN": "¿Necesitas ayuda?",
+                "POL": "Potrzebujesz pomocy?"
             },
             "HelpHyperlink": {
                 "ENG": "Join our discord",
-                "SPAN": "Únase a nuestra discordia"
+                "SPAN": "Únase a nuestra discordia",
+                "POL": "Dołącz do naszego discorda"
             },
             "Key": {
                 "ENG": "Key:",
-                "SPAN": "Llave:"
+                "SPAN": "Llave:",
+                "POL": "Klucz:"
             },
             "ButtonActivate": {
                 "ENG": "Activate",
-                "SPAN": "Activar"
+                "SPAN": "Activar",
+                "POL": "Aktywuj"
             }
         },
         "MainView": {
             "Dashboard": {
                 "ENG": "Dashboard",
-                "SPAN": "Tablero"
+                "SPAN": "Tablero",
+                "POL": "Panel"
             },
             "Skins": {
                 "ENG": "Skins",
-                "SPAN": "Pieles"
+                "SPAN": "Pieles",
+                "POL": "Skiny"
             },
             "Backblings": {
                 "ENG": "Back Blings",
-                "SPAN": "Adornos traseros"
+                "SPAN": "Adornos traseros",
+                "POL": "Plecaki"
             },
             "Pickaxes": {
                 "ENG": "Pickaxes",
-                "SPAN": "picos"
+                "SPAN": "picos",
+                "POL": "Kilofy"
             },
             "Emotes": {
                 "ENG": "Emotes",
-                "SPAN": "Danzas"
+                "SPAN": "Danzas",
+                "POL": "Emotki"
             },
             "Wraps": {
                 "ENG": "Weapons",
-                "SPAN": "armas"
+                "SPAN": "armas",
+                "POL": "Malowania"
             },
             "Plugins": {
                 "ENG": "Plugins",
-                "SPAN": "Complementos"
+                "SPAN": "Complementos",
+                "POL": "Pluginy"
             },
             "Misc": {
                 "ENG": "Misc",
-                "SPAN": "Varios"
+                "SPAN": "Varios",
+                "POL": "Dodatki"
             },
             "Settings": {
                 "ENG": "Settings",
-                "SPAN": "Ajustes"
+                "SPAN": "Ajustes",
+                "POL": "Ustawienia"
             },
             "Discord": {
-                "ENG": "Discord"
+                "ENG": "Discord",
+                "POL": "Discord"
             },
             "EXTRA": {
-                "ENG": "EXTRA"
+                "ENG": "EXTRA",
+                "POL": "Dodatki v2"
             },
             "Search": {
                 "ENG": "Search",
-                "SPAN": "Búsqueda"
+                "SPAN": "Búsqueda",
+                "POL": "Wyszukaj"
             }
         },
         "DashboardView": {
             "Notes": {
-                "ENG": "[!] Fixed Skins\n[!] Fixed Back Blings\n[!] Fixed Pickaxes\n[!] Fixed Emotes\n[?] Disabled Wraps\n[?] Disabled Misc"
+                "ENG": "[!] Fixed Skins\n[!] Fixed Back Blings\n[!] Fixed Pickaxes\n[!] Fixed Emotes\n[?] Disabled Wraps\n[?] Disabled Misc",
+                "POL": "[!] Naprawiono Skiny\n[!] Naprawiono Plecaki\n[!] Naprawiono Kilofy\n[!] Naprawiono Emotki\n[?] Wyłączono Malowania\n[?] Wyłączono Dodatki"
             },
             "PatchNotes": {
                 "ENG": "Patch Notes:",
-                "SPAN": "Notas del parche:"
+                "SPAN": "Notas del parche:",
+                "POL": "Lista zmian"
             },
             "MoreNews": {
                 "ENG": "More News:",
-                "SPAN": "Mas noticias:"
+                "SPAN": "Mas noticias:",
+                "POL": "Więcej Newsow"
             },
             "Copyright": {
                 "ENG": "Galaxy Swapper v2"
             },
             "Credits": {
                 "ENG": "Created by Wslt#7904",
-                "SPAN": "Creado por Wslt#7904"
+                "SPAN": "Creado por Wslt#7904",
+                "POL": "Stworzono przez Wslt#7904"
             }
         },
         "SettingsView": {
             "FolderBrowserDialogDescription": {
                 "ENG": "Select your Fortnite install location",
-                "SPAN": "Seleccione su ubicación de instalación de Fortnite"
+                "SPAN": "Seleccione su ubicación de instalación de Fortnite",
+                "POL": "Wybierz lokalizacje instalacji Fortnite"
             },
             "FortniteInstallHeader": {
                 "ENG": "Fortnite Install Location",
-                "SPAN": "Ubicación de instalación de Fortnite"
+                "SPAN": "Ubicación de instalación de Fortnite",
+                "POL": "Lokalizacja Instalacji Fortnite'a"
             },
             "FortniteInstallDescription": {
                 "ENG": "Need to change your Fortnite install location? Click the folder!",
-                "SPAN": "¿Necesitas cambiar tu ubicación de instalación de Fortnite? ¡Haz clic en la carpeta!"
+                "SPAN": "¿Necesitas cambiar tu ubicación de instalación de Fortnite? ¡Haz clic en la carpeta!",
+                "POL": "Potrzebujesz zmienić miejsce instalacji Fortnite'a? Wybierz folder!"
             },
             "LanguageHeader": {
                 "ENG": "Language",
-                "SPAN": "Idioma"
+                "SPAN": "Idioma",
+                "POL": "Język"
             },
             "LanguageDescription": {
                 "ENG": "Need to change your language? Click 'Change Language'",
-                "SPAN": "¿Necesitas cambiar tu idioma? Haga clic en 'Cambiar idioma'"
+                "SPAN": "¿Necesitas cambiar tu idioma? Haga clic en 'Cambiar idioma'",
+                "POL": "Chcesz zmienić język"
             },
             "EditLanguage": {
                 "ENG": "Change Language",
-                "SPAN": "Cambiar idioma"
+                "SPAN": "Cambiar idioma",
+                "POL": "Zmień język"
             },
             "AccountInfoHeader": {
                 "ENG": "Account Info",
-                "SPAN": "Informacion de cuenta"
+                "SPAN": "Informacion de cuenta",
+                "POL": "Informacje o koncie"
             },
             "AccountInfoDescription": {
                 "ENG": "Want to know how long you have left on your key? Here you go.",
-                "SPAN": "¿Quieres saber cuánto tiempo te queda en tu llave? Aquí tienes."
+                "SPAN": "¿Quieres saber cuánto tiempo te queda en tu llave? Aquí tienes.",
+                "POL": "Chcesz wiedzieć ile zostało czasu do wygasnięcia klucza? Prosze bardzo."
             },
             "Username": {
                 "ENG": "Username: {0}",
-                "SPAN": "Nombre de usuario: {0}"
+                "SPAN": "Nombre de usuario: {0}",
+                "POL": "Nazwa Użytkownika: {0}"
             },
             "DaysLeft": {
                 "ENG": "Days Left: {0}",
-                "SPAN": "Días restantes: {0}"
+                "SPAN": "Días restantes: {0}",
+                "POL": "Pozostało Dni: {0}"
             },
             "ExpiresOn": {
                 "ENG": "Expires On: {0}",
-                "SPAN": "Caduca el: {0}"
+                "SPAN": "Caduca el: {0}",
+                "POL": "Wygasa: {0}"
             },
             "FortniteHeader": {
                 "ENG": "Fortnite"
             },
             "FortniteDescription": {
                 "ENG": "Having issues with fortnite? This is the spot to go.",
-                "SPAN": "¿Tienes problemas con fortnite? Este es el lugar para ir."
+                "SPAN": "¿Tienes problemas con fortnite? Este es el lugar para ir.",
+                "POL": "Masz problem z fortnite? Udaj się tutaj."
             },
             "StartFortnite": {
                 "ENG": "Start Fortnite",
-                "SPAN": "Iniciar Fortnite"
+                "SPAN": "Iniciar Fortnite",
+                "POL": "Włącz Fortnite"
             },
             "CloseFortnite": {
                 "ENG": "Close Fortnite",
-                "SPAN": "Cerrar Fortnite"
+                "SPAN": "Cerrar Fortnite",
+                "POL": "Zamknij Fortnite"
             },
             "RemoveDupedUcas": {
                 "ENG": "Remove Duped Ucas",
-                "SPAN": "Eliminar Duped Ucas"
+                "SPAN": "Eliminar Duped Ucas",
+                "POL": "Usuń zduplikowany Ucas"
             },
             "VerifyFortnite": {
                 "ENG": "Verify Fortnite",
-                "SPAN": "Verificar Fortnite"
+                "SPAN": "Verificar Fortnite",
+                "POL": "Zweryfikuj Fortnite"
             },
             "ConvertedItemsHeader": {
                 "ENG": "Converted Items",
-                "SPAN": "Artículos convertidos"
+                "SPAN": "Artículos convertidos",
+                "POL": "Zmienione rzeczy"
             },
             "ConvertedItemsDescription": {
                 "ENG": "Forgot what you swapped? Well here you go.",
-                "SPAN": "¿Olvidaste lo que cambiaste? Bueno, aquí tienes."
+                "SPAN": "¿Olvidaste lo que cambiaste? Bueno, aquí tienes.",
+                "POL": "Zapomniałeś co zmieniłes? Sprawdź tutaj."
             },
             "ItemsSwapped": {
                 "ENG": "Items Swapped: {0}",
-                "SPAN": "Artículos intercambiados: {0}"
+                "SPAN": "Artículos intercambiados: {0}",
+                "POL": "Zmienione Rzeczy: {0}"
             },
             "Show": {
                 "ENG": "Show",
-                "SPAN": "Espectáculo"
+                "SPAN": "Espectáculo",
+                "POL": "Pokaż"
             },
             "Reset": {
                 "ENG": "Reset",
-                "SPAN": "Reiniciar"
+                "SPAN": "Reiniciar",
+                "POL": "Resetuj"
             },
             "MiscellaneousHeader": {
                 "ENG": "Miscellaneous",
-                "SPAN": "Misceláneos"
+                "SPAN": "Misceláneos",
+                "POL": "Pozostałe"
             },
             "MiscellaneousDescription": {
                 "ENG": "Some more advanced options just for you!",
-                "SPAN": "¡Algunas opciones más avanzadas solo para ti!"
+                "SPAN": "¡Algunas opciones más avanzadas solo para ti!",
+                "POL": "Więcej zaawansowanych opcji właśnie dla ciebie!"
             },
             "ThemeEditor": {
                 "ENG": "Theme Editor",
-                "SPAN": "Editor de temas"
+                "SPAN": "Editor de temas",
+                "POL": "Edytor Motywów"
             },
             "RefreshCosmeticTabs": {
                 "ENG": "Refresh Cosmetics",
-                "SPAN": "Cosméticos refrescantes"
+                "SPAN": "Cosméticos refrescantes",
+                "POL": "Odświerz Dodatki"
             },
             "DiscordRichPresence": {
                 "ENG": "Discord Rich Presence",
-                "SPAN": "Presencia rica en discordia"
+                "SPAN": "Presencia rica en discordia",
+                "POL": "Pokazywanie Discorda"
             },
             "AutoCloseFortnite": {
                 "ENG": "Auto Close Fortnite",
-                "SPAN": "Cierre automático Fortnite"
+                "SPAN": "Cierre automático Fortnite",
+                "POL": "Automatycznie Zamknij Fortnite'a"
             },
             "LowQualityIcons": {
                 "ENG": "Low Quality Icons",
-                "SPAN": "Iconos de baja calidad"
+                "SPAN": "Iconos de baja calidad",
+                "POL": "Niska Jakość Ikon"
             },
             "EmoteWarning": {
                 "ENG": "Emote Warning",
-                "SPAN": "Advertencia de emoticonos"
+                "SPAN": "Advertencia de emoticonos",
+                "POL": "Ostrzeżenie Emotek"
             }
         },
         "OptionsView": {
             "Header": {
                 "ENG": "What option would you like to swap?",
-                "SPAN": "¿Qué opción te gustaría cambiar?"
+                "SPAN": "¿Qué opción te gustaría cambiar?",
+                "POL": "Jaką opcje chciałbyś zamienić?"
             },
             "Tip": {
                 "ENG": "You must own the cosmetic you select!",
-                "SPAN": "¡Debes tener el cosmético que selecciones!"
+                "SPAN": "¡Debes tener el cosmético que selecciones!",
+                "POL": "Musisz posiadać przedmiot który zaznaczysz!"
             }
         },
         "SwapView": {
             "Convert": {
                 "ENG": "Convert",
-                "SPAN": "Convertir"
+                "SPAN": "Convertir",
+                "POL": "Zamień"
             },
             "Revert": {
                 "ENG": "Revert",
-                "SPAN": "Revertir"
+                "SPAN": "Revertir",
+                "POL": "Przywróć"
             },
             "DefaultLOG": {
                 "ENG": "Waiting for input..",
-                "SPAN": "Esperando entrada.."
+                "SPAN": "Esperando entrada..",
+                "POL": "Czekam na rozpoczęcie.."
             },
             "ON": {
                 "ENG": "ON",
-                "SPAN": "EN"
+                "SPAN": "EN",
+                "POL": "WŁĄCZONO"
             },
             "OFF": {
                 "ENG": "OFF",
-                "SPAN": "APAGADO"
+                "SPAN": "APAGADO",
+                "POL": "WYŁĄCZONO"
             },
             "CompletedMinutes": {
                 "ENG": "Completed In {0}:{1}",
-                "SPAN": "Completado en {0}:{1}"
+                "SPAN": "Completado en {0}:{1}",
+                "POL": "Zakończono w {0}:{1}"
             },
             "CompletedSeconds": {
                 "ENG": "Completed In 0:{0}",
-                "SPAN": "Completado en 0:{0}"
+                "SPAN": "Completado en 0:{0}",
+                "POL": "Zakończono w {0}:{0}"
             },
             "Provider": {
                 "ENG": "Initializing Provider",
-                "SPAN": "Inicializando proveedor"
+                "SPAN": "Inicializando proveedor",
+                "POL": "Inicjowanie Dostawca"
             },
             "Disposing": {
                 "ENG": "Disposing Provider",
-                "SPAN": "Proveedor de eliminación"
+                "SPAN": "Proveedor de eliminación",
+                "POL": "Usuwanie Dostawca"
             },
             "Exporting": {
                 "ENG": "Exporting {0}",
-                "SPAN": "Exportador {0}"
+                "SPAN": "Exportador {0}",
+                "POL": "Eksportowanie {0}"
             },
             "Parse": {
                 "ENG": "Parsing {0}",
-                "SPAN": "análisis {0}"
+                "SPAN": "análisis {0}",
+                "POL": "Analizowanie {0}"
             },
             "StartingSwap": {
                 "ENG": "Starting swap",
-                "SPAN": "Comenzando intercambio"
+                "SPAN": "Comenzando intercambio",
+                "POL": "Zaczynam zamiane"
             },
             "TypeString": {
                 "ENG": "Swapping as string",
-                "SPAN": "Intercambio como cadena"
+                "SPAN": "Intercambio como cadena",
+                "POL": "Zamienianie w nić"
             },
             "TypeHex": {
                 "ENG": "Swapping as hex",
-                "SPAN": "Intercambio como hexadecimal"
+                "SPAN": "Intercambio como hexadecimal",
+                "POL": "Zamienianie w hex"
             },
             "FailedStringAnyLength": {
                 "ENG": "Failed to allocate length with strings",
-                "SPAN": "Error al asignar longitud con cadenas"
+                "SPAN": "Error al asignar longitud con cadenas",
+                "POL": "Nieudano rozdysponowanie długości z nici"
             },
             "FailedTeleAnyLength": {
                 "ENG": "Failed to allocate length with Tele",
-                "SPAN": "No se pudo asignar la longitud con Tele"
+                "SPAN": "No se pudo asignar la longitud con Tele",
+                "POL": "Nieudano rozdysponować długości z Tele"
             },
             "FailedCompress": {
                 "ENG": "Failed To Fix Compression Length",
-                "SPAN": "Error al corregir la longitud de compresión"
+                "SPAN": "Error al corregir la longitud de compresión",
+                "POL": "Nieudano naprawić kompresji długości"
             },
             "AdjustingLength": {
                 "ENG": "Adjusting length of asset",
-                "SPAN": "Ajuste de la longitud del activo"
+                "SPAN": "Ajuste de la longitud del activo",
+                "POL": "Dostosowywanie długości pliku"
             },
             "InvalidatingPartData": {
                 "ENG": "Invalidating partdata",
-                "SPAN": "Invalidación de datos de pieza"
+                "SPAN": "Invalidación de datos de pieza",
+                "POL": "Zastąpianie części danych"
             },
             "CompressingAsset": {
                 "ENG": "Compressing asset",
-                "SPAN": "Compresión de activos"
+                "SPAN": "Compresión de activos",
+                "POL": "Kompresowanie pliku"
             },
             "BackingUp": {
                 "ENG": "Backing up Pakchunks",
-                "SPAN": "Copia de seguridad de Pakchunks"
+                "SPAN": "Copia de seguridad de Pakchunks",
+                "POL": "Robienie kopii Pakchunk'ów"
             },
             "BackingUpName": {
                 "ENG": "Backing up {0}",
-                "SPAN": "Copia de seguridad {0}"
+                "SPAN": "Copia de seguridad {0}",
+                "POL": "Robienie kopii {0}"
             },
             "BackupWarning": {
-                "ENG": "BACKING UP FILES CAN TAKE UP TO 5/10 MINUTES"
+                "ENG": "BACKING UP FILES CAN TAKE UP TO 5/10 MINUTES",
+                "POL": "ROBIENIE KOPII PLIKÓW MOŻE ZAJĄĆ 5/10 MINUT"
             },
             "BackupOutOfSpace": {
                 "ENG": "{0} Has ran out of space!",
-                "SPAN": "{0} ¡Se ha quedado sin espacio!"
+                "SPAN": "{0} ¡Se ha quedado sin espacio!",
+                "POL": "{0} Nie miało pamięci!"
             },
             "GameFilesInUse": {
                 "ENG": "Game files in use!",
-                "SPAN": "¡Archivos de juego en uso!"
+                "SPAN": "¡Archivos de juego en uso!",
+                "POL": "Pliki gry są w użyciu!"
             },
             "EditingPakChunk": {
                 "ENG": "Editing {0}",
-                "SPAN": "Editando {0}"
+                "SPAN": "Editando {0}",
+                "POL": "Edytowanie {0}"
             },
             "StartConverting": {
                 "ENG": "Starting to convert",
-                "SPAN": "Comenzando a convertir"
+                "SPAN": "Comenzando a convertir",
+                "POL": "Rozpoczynanie zamiany"
             },
             "StartReverting": {
                 "ENG": "Starting to revert",
-                "SPAN": "Empezando a revertir"
+                "SPAN": "Empezando a revertir",
+                "POL": "Rozpoczynanie Cofania"
             },
             "ConvertingCount": {
                 "ENG": "Converting asset {0}",
-                "SPAN": "Convirtiendo activo {0}"
+                "SPAN": "Convirtiendo activo {0}",
+                "POL": "Przetwarzanie pliku {0}"
             },
             "RevertingCount": {
                 "ENG": "Reverting asset {0}",
-                "SPAN": "Revirtiendo activo {0}"
+                "SPAN": "Revirtiendo activo {0}",
+                "POL": "Cofanie pliku {0}"
             }
         },
         "LanguageView": {
             "ChangeLanguage": {
                 "ENG": "Change Language",
-                "SPAN": "Cambiar idioma"
+                "SPAN": "Cambiar idioma",
+                "POL": "Zmień język"
             }
         },
         "ThemeView": {
             "InterfaceColorsHeader": {
                 "ENG": "Interface Colors",
-                "SPAN": "Colores de la interfaz"
+                "SPAN": "Colores de la interfaz",
+                "POL": "Kolor Interfejsu"
             },
             "MainColor": {
                 "ENG": "Main Color:",
-                "SPAN": "Color principal:"
+                "SPAN": "Color principal:",
+                "POL": "Główny Kolor"
             },
             "HighlightColor": {
                 "ENG": "Highlight Color:",
-                "SPAN": "Color de resaltado:"
+                "SPAN": "Color de resaltado:",
+                "POL": "Kolor Podświetlenia"
             },
             "ButtonColor": {
                 "ENG": "Button Color:",
-                "SPAN": "Color del boton:"
+                "SPAN": "Color del boton:",
+                "POL": "Kolor Przycisków"
             },
             "TextColor": {
                 "ENG": "Text Color:",
-                "SPAN": "Color de texto:"
+                "SPAN": "Color de texto:",
+                "POL": "Kolor Tekstu"
             },
             "2ndTextColor": {
                 "ENG": "2nd Text Color:",
-                "SPAN": "Segundo color de texto:"
+                "SPAN": "Segundo color de texto:",
+                "POL": "Drugi Kolor Tekstu"
             },
             "CosmeticIconSizeHeader": {
                 "ENG": "Cosmetic Icon Size",
-                "SPAN": "Tamaño del icono cosmético"
+                "SPAN": "Tamaño del icono cosmético",
+                "POL": "Wielkość Ikon"
             },
             "Size": {
                 "ENG": "Size: {0}",
-                "SPAN": "Tamaño: {0}"
+                "SPAN": "Tamaño: {0}",
+                "POL": "Wielkość {0}"
             },
             "SizeDefault": {
                 "ENG": "Size: {0} (Default)",
-                "SPAN": "Tamaño: {0} (predeterminado)"
+                "SPAN": "Tamaño: {0} (predeterminado)",
+                "POL": "Wielkość {0} (Początkowa)"
             },
             "ResetChanges": {
                 "ENG": "Reset Changes",
-                "SPAN": "Restablecer cambios"
+                "SPAN": "Restablecer cambios",
+                "POL": "Zresetuj Zmiany"
             }
         },
         "PluginsView": {
             "FileDialog": {
                 "ENG": "Select a plugin file!",
-                "SPAN": "¡Seleccione un archivo de complemento!"
+                "SPAN": "¡Seleccione un archivo de complemento!",
+                "POL": "Wybierz plik pluginu!"
             },
             "Tip": {
                 "ENG": "Drag and drop plugins below!",
-                "SPAN": "¡Arrastra y suelta los complementos a continuación!"
+                "SPAN": "¡Arrastra y suelta los complementos a continuación!",
+                "POL": "Przenieś i upuść pluginy poniżej"
             }
         }
     },
@@ -426,143 +527,178 @@
         "Headers": {
             "Info": {
                 "ENG": "Info",
-                "SPAN": "Información"
+                "SPAN": "Información",
+                "POL": "Informacje"
             },
             "Error": {
-                "ENG": "Error"
+                "ENG": "Error",
+                "POL": "Błąd"
             },
             "Warning": {
                 "ENG": "Warning",
-                "SPAN": "Advertencia"
+                "SPAN": "Advertencia",
+                "POL": "Ostrzeżenie"
             },
             "Question": {
                 "ENG": "Question",
-                "SPAN": "Pregunta"
+                "SPAN": "Pregunta",
+                "POL": "Pytanie"
             }
         },
         "LoginSuccess": {
             "ENG": "Successfully activated key! Welcome to galaxy swapper.",
-            "SPAN": "¡Llave activada con éxito! Bienvenido a galaxy swapper."
+            "SPAN": "¡Llave activada con éxito! Bienvenido a galaxy swapper.",
+            "POL": "Pomyślnie aktywowano klucz! Witaj w Galaxy Swapper."
         },
         "LoginFailed": {
             "ENG": "Key is invalid! Please check if you inputed it correctly.",
-            "SPAN": "¡La clave no es válida! Por favor, compruebe si lo ha introducido correctamente."
+            "SPAN": "¡La clave no es válida! Por favor, compruebe si lo ha introducido correctamente.",
+            "POL": "Klucz jest niepoprawny! Prosze sprawdź czy wprowadziłeś klucz poprawnie"
         },
         "LoginFailedConnect": {
             "ENG": "Failed to activate key! Please try disabling windows firewall and ensure you have a stable connection and try again.",
-            "SPAN": "¡Error al activar la clave! Intente deshabilitar el firewall de Windows y asegúrese de tener una conexión estable y vuelva a intentarlo."
+            "SPAN": "¡Error al activar la clave! Intente deshabilitar el firewall de Windows y asegúrese de tener una conexión estable y vuelva a intentarlo.",
+            "POL": "Nieudano aktywować klucz! Prosze spróbuj wyłączyć zaporę ogniową winodwa i pamiętaj o stałym połączeniu do internetu. Spróbuj ponownie."
         },
         "FortniteDirectoryEmpty": {
             "ENG": "Fortnite directory is invalid or empty! To fix this, simply visit the settings tab and click the folder icon and select your Fortnite path.",
-            "SPAN": "¡El directorio de Fortnite no es válido o está vacío! Para solucionar esto, simplemente visite la pestaña de configuración y haga clic en el icono de la carpeta y seleccione su ruta de Fortnite."
+            "SPAN": "¡El directorio de Fortnite no es válido o está vacío! Para solucionar esto, simplemente visite la pestaña de configuración y haga clic en el icono de la carpeta y seleccione su ruta de Fortnite.",
+            "POL": "Folder z Fortnite jest niepoprawny albo pusty! By to naprawić poprostu sprawdź ustawienia i kliknij na folder i wybierz ścieżkę Fortnite."
         },
         "FortniteDirectoryInvalid": {
             "ENG": "Fortnite directory no longer exists on this PC! To fix this, simply visit the settings tab and click the folder icon and select your Fortnite path.",
-            "SPAN": "¡El directorio de Fortnite ya no existe en esta PC! Para solucionar esto, simplemente visite la pestaña de configuración y haga clic en el icono de la carpeta y seleccione su ruta de Fortnite."
+            "SPAN": "¡El directorio de Fortnite ya no existe en esta PC! Para solucionar esto, simplemente visite la pestaña de configuración y haga clic en el icono de la carpeta y seleccione su ruta de Fortnite.",
+            "POL": "Folder z Fortnite już nie istnieje na tym komputerze! By to napraić poprostu wejdź w ustawienia i kliknij na folder i wybierz ścieżkę Fortnite."
         },
         "WorkerBusy": {
             "ENG": "Convert worker is already running! Please wait for the swap to complete before interacting again.",
-            "SPAN": "¡Convertir trabajador ya se está ejecutando! Espere a que se complete el intercambio antes de volver a interactuar."
+            "SPAN": "¡Convertir trabajador ya se está ejecutando! Espere a que se complete el intercambio antes de volver a interactuar.",
+            "POL": "Coś jest już zamieniane! Prosze poczekaj żeby zmiana się zakończyła i wtedy spróbuj ponownie."
         },
         "CompletedSwapMinutes": {
             "ENG": "Successfully Converted In {0} Minutes!",
-            "SPAN": "¡Convertido con éxito en {0} minutos!"
+            "SPAN": "¡Convertido con éxito en {0} minutos!",
+            "POL": "Pomyślnie Zmieniono w {0} Minut!"
         },
         "CompletedSwapSeconds": {
             "ENG": "Successfully Converted In {0} Seconds!",
-            "SPAN": "¡Convertido con éxito en {0} segundos!"
+            "SPAN": "¡Convertido con éxito en {0} segundos!",
+            "POL": "Pomyśnie Zamieniono w {0} Sekund!"
         },
         "CompletedRevertMinutes": {
             "ENG": "Successfully Reverted In {0} Minutes!",
-            "SPAN": "¡Revertido con éxito en {0} minutos!"
+            "SPAN": "¡Revertido con éxito en {0} minutos!",
+            "POL": "Pomyślnie Przywrócono w {0} Minut!"
         },
         "CompletedRevertSeconds": {
             "ENG": "Successfully Reverted In {0} Seconds!",
-            "SPAN": "¡Revertido con éxito en {0} segundos!"
+            "SPAN": "¡Revertido con éxito en {0} segundos!",
+            "POL": "Pomyślnie Przywrócono w {0} Sekund!"
         },
         "FailedTeleAnyLength": {
             "ENG": "Failed to allocate length with tele and strings! Please adjust replace strings for more length.\n\nNeeded {0} more characters.",
-            "SPAN": "¡No se pudo asignar la longitud con tele y cuerdas! Ajuste las cadenas de reemplazo para obtener más longitud.\n\nSe necesitan {0} caracteres más."
+            "SPAN": "¡No se pudo asignar la longitud con tele y cuerdas! Ajuste las cadenas de reemplazo para obtener más longitud.\n\nSe necesitan {0} caracteres más.",
+            "POL": "Nieudano przydzielić długości z tele i nicią! Prosze dostosuj zamiane nici na dłuższą długość.\n\nPotrzebne {0} więcej postaci."
         },
         "CompressionLength": {
             "ENG": "Compressed asset is bigger then orginal! please attempt to shorted strings of the asset.\n\nCompressed Asset:{0}\nOrignal Asset:{1}",
-            "SPAN": "¡El activo comprimido es más grande que el original! intente acortar las cadenas del activo.\n\nActivo comprimido:{0}\nActivo original:{1}"
+            "SPAN": "¡El activo comprimido es más grande que el original! intente acortar las cadenas del activo.\n\nActivo comprimido:{0}\nActivo original:{1}",
+            "POL": "Skompresowany plik jest większy niż oryginalny! Prosze spróbój skrócić nici pliku.\n\nSkompresowany Plik:{0}\nOryginalny Plik:{1}"
         },
         "BackupOutOfSpace": {
             "ENG": "{0} Has Ran Out Of Storage! Please Make Some More Room Before Swapping.",
-            "SPAN": "¡{0} se ha quedado sin almacenamiento! Por favor, haga más espacio antes de cambiar."
+            "SPAN": "¡{0} se ha quedado sin almacenamiento! Por favor, haga más espacio antes de cambiar.",
+            "POL": "{0} Zabrakło pamięci! Proszę zrób troche miejsca przed zamianą."
         },
         "GameFilesInUse": {
             "ENG": "{0}\nIs currently in use by another process? Please make sure Fortnite is closed or any other processes that will use your game files!",
-            "SPAN": "{0}\n¿Está siendo utilizado actualmente por otro proceso? ¡Asegúrate de que Fortnite esté cerrado o cualquier otro proceso que use tus archivos de juego!"
+            "SPAN": "{0}\n¿Está siendo utilizado actualmente por otro proceso? ¡Asegúrate de que Fortnite esté cerrado o cualquier otro proceso que use tus archivos de juego!",
+            "POL": "{0}\nJest obecnie używany przez inny proces? Proszę upewni się że Fortnite jest wyłączony lub inny proces nie używa plików gry!"
         },
         "InvalidHexColor": {
             "ENG": "{0} Is not a valid hex color!",
-            "SPAN": "{0} ¡No es un color hexadecimal válido!"
+            "SPAN": "{0} ¡No es un color hexadecimal válido!",
+            "POL": "{0} Jest nieprawidłowym kolorem hex!"
         },
         "EmoteWarning": {
             "ENG": "DO NOT put swapped emotes in your emote wheel! You can favorite the emote to find it faster.",
-            "SPAN": "¡NO pongas emotes intercambiados en tu rueda de emotes! Puedes marcar el emoticón como favorito para encontrarlo más rápido."
+            "SPAN": "¡NO pongas emotes intercambiados en tu rueda de emotes! Puedes marcar el emoticón como favorito para encontrarlo más rápido.",
+            "POL": "Nie dodawaj zamienionych emotek do koła wyboru! Możesz dodać je do ulubionych by znaleźć je szybciej."
         },
         "ClosedFortnite": {
             "ENG": "Successfully closed Fortnite!",
-            "SPAN": "¡Fortnite cerrado con éxito!"
+            "SPAN": "¡Fortnite cerrado con éxito!",
+            "POL": "Pomyślnie wyłączono Fortnite!"
         },
         "RemovedDupedUcas": {
             "ENG": "Successfully removed duped ucas!",
-            "SPAN": "Eliminado con éxito ucas duplicados"
+            "SPAN": "Eliminado con éxito ucas duplicados",
+            "POL": "Pomyślnie usunięto zduplikowane Ucas!"
         },
         "RemovedDupedUcasError": {
             "ENG": "Caught a error while trying to delete duped ucas!\n{0}\nPlease make sure Fortnite is closed and try restarting the swapper.",
-            "SPAN": "¡Obtuve un error al intentar eliminar ucas duplicadas!\n{0}\nAsegúrate de que Fortnite esté cerrado e intenta reiniciar el intercambiador."
+            "SPAN": "¡Obtuve un error al intentar eliminar ucas duplicadas!\n{0}\nAsegúrate de que Fortnite esté cerrado e intenta reiniciar el intercambiador.",
+            "POL": "Złapano błąd przy próbie usuwanie zduplikowanego Ucas!\n{0}\nProsze upewnij się że Fortnite jest zamknięty i spróbuj zresetować swapper."
         },
         "Verify": {
             "ENG": "We are now redirecting you to Epic Games verification! If Epic Games Launcher does not open by itself, then open it manually.",
-            "SPAN": "¡Ahora lo estamos redirigiendo a la verificación de Epic Games! Si Epic Games Launcher no se abre solo, ábralo manualmente."
+            "SPAN": "¡Ahora lo estamos redirigiendo a la verificación de Epic Games! Si Epic Games Launcher no se abre solo, ábralo manualmente.",
+            "POL": "Przeniesiemy cię do weryfikacji Epic Games! Jeżeli Epic Games Launcher się nie otwiera sama to otwórz ją manualnie."
         },
         "RefreshCosmetics": {
             "ENG": "Successfully refreshed cosmetic tabs!",
-            "SPAN": "¡Pestañas cosméticas actualizadas con éxito!"
+            "SPAN": "¡Pestañas cosméticas actualizadas con éxito!",
+            "POL": "Pomyślnie odświerzono tabele z kosmetykami!"
         },
         "ConvertedItems": {
             "ENG": "Converted items:\n{0}\nPakchunks in use:\n{1}",
-            "SPAN": "Elementos convertidos:\n{0}\nPakchunks en uso:\n{1}"
+            "SPAN": "Elementos convertidos:\n{0}\nPakchunks en uso:\n{1}",
+            "POL": "Zamienione Przedmioty:\n{0}\nPakchunks w użyciu:\n{1}"
         },
         "ResetConvertedItemsWarning": {
             "ENG": "Are you sure you want to reset converted items?\n(This will not remove the cosmetics from your game this will only reset converted items list)",
-            "SPAN": "¿Está seguro de que desea restablecer los elementos convertidos?\n(Esto no eliminará los cosméticos de su juego, solo restablecerá la lista de elementos convertidos)"
+            "SPAN": "¿Está seguro de que desea restablecer los elementos convertidos?\n(Esto no eliminará los cosméticos de su juego, solo restablecerá la lista de elementos convertidos)",
+            "POL": "Napewno chcesz zresetować zamienione przedmioty?\n(To nie usunie kosmetyków z twojej gry a tylko zresetuje liste zamienionych rzeczy)"
         },
         "ResetConvertedItems": {
             "ENG": "Successfully reset converted items!",
-            "SPAN": "¡Restablecer con éxito los elementos convertidos!"
+            "SPAN": "¡Restablecer con éxito los elementos convertidos!",
+            "POL": "Pomyślnie zresetowano zamienone przedmioty!"
         },
         "ValidSelection": {
             "ENG": "Successfully updated Fortnite install location to:\n{0}",
-            "SPAN": "Ubicación de instalación de Fortnite actualizada con éxito a:\n{0}"
+            "SPAN": "Ubicación de instalación de Fortnite actualizada con éxito a:\n{0}",
+            "POL": "Pomyślnie zaaktualizowano lokalizacje instalacji Fortnite'a:\n{0}"
         },
         "NotValidSelection": {
             "ENG": "The selected location is not a valid Fortnite install path! Please make sure you are selected the correct folder.",
-            "SPAN": "¡La ubicación seleccionada no es una ruta de instalación de Fortnite válida! Por favor, asegúrese de haber seleccionado la carpeta correcta."
+            "SPAN": "¡La ubicación seleccionada no es una ruta de instalación de Fortnite válida! Por favor, asegúrese de haber seleccionado la carpeta correcta.",
+            "POL": "Wybrana lokalizacja nie jest poprawną ścieżką instalacji Fortnite! Proszę upewnij się że wybrałeś poprawny folder."
         },
         "ToManyPaks": {
             "ENG": "You have to many PakChunks in use. Swapping this item will kick you from the match! If you want to swap this item please revert a item you already have swapped.",
-            "SPAN": "Tienes muchos PakChunks en uso. ¡Cambiar este artículo te expulsará del partido! Si desea intercambiar este artículo, revierta un artículo que ya haya intercambiado."
+            "SPAN": "Tienes muchos PakChunks en uso. ¡Cambiar este artículo te expulsará del partido! Si desea intercambiar este artículo, revierta un artículo que ya haya intercambiado.",
+            "POL": "Masz za dużo PakChunków w użyciu. Zamienienie tego przedmiotu będzie skutkować wyrzuceniem z meczu! Jeżeli chcesz zamienić ten przedmiot prosze cofnij przedmiot który właśnie zamieniłeś."
         },
         "ToManyCosmetics": {
             "ENG": "You have over 8 items swapped! If you swap this item you might get kicked from the match.",
-            "SPAN": "¡Tienes más de 8 artículos intercambiados! Si cambia este elemento, es posible que lo expulsen del partido."
+            "SPAN": "¡Tienes más de 8 artículos intercambiados! Si cambia este elemento, es posible que lo expulsen del partido.",
+            "POL": "Masz powyżej 8 zamienionych przedmiotów! Jeżeli zmienisz ten przedmiot możesz zostać wyrzucony z meczu."
         },
         "FailedToExport": {
             "ENG": "Failed to export asset! Please try restarting then go to settings and clicking 'Verify Fortnite' then swap the cosmetic again!",
-            "SPAN": "¡Error al exportar el recurso! Intente reiniciar, luego vaya a la configuración y haga clic en 'Verificar Fortnite', ¡luego cambie el cosmético nuevamente!"
+            "SPAN": "¡Error al exportar el recurso! Intente reiniciar, luego vaya a la configuración y haga clic en 'Verificar Fortnite', ¡luego cambie el cosmético nuevamente!",
+            "POL": "Nieudano eksportować plik! Prosze spróbuj restartować, później przejdź do ustawień i kliknij 'Weryfikuj Fortnite' później zamień kosmetyk ponownie!"
         },
         "PluginJsonInvalid": {
             "ENG": "{0}\nPlugin file is not in a valid json format!",
-            "SPAN": "{0}\n¡El archivo del complemento no tiene un formato json válido!"
+            "SPAN": "{0}\n¡El archivo del complemento no tiene un formato json válido!",
+            "POL": "{0}\nPlugin pliku jest w niepoprawnym formacie json!"
         },
         "PluginDoesNotContain": {
             "ENG": "{0}\nPlugin file does not contain {1}!",
-            "SPAN": "{0}\n¡El archivo de complemento no contiene {1}!"
+            "SPAN": "{0}\n¡El archivo de complemento no contiene {1}!",
+            "POL": "{0}\nPlugin pliku nie zawiera {1}!"
         }
     }
 }
