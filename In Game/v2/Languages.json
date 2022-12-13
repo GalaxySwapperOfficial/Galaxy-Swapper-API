@@ -137,8 +137,7 @@
         },
         "DashboardView": {
             "Notes": {
-                "ENG": "[!] Fixed Skins\n[!] Fixed Back Blings\n[!] Fixed Pickaxes\n[!] Fixed Emotes\n[?] Disabled Wraps\n[?] Disabled Misc",
-                "POL": "[!] Naprawiono Skiny\n[!] Naprawiono Plecaki\n[!] Naprawiono Kilofy\n[!] Naprawiono Emotki\n[?] Wyłączono Malowania\n[?] Wyłączono Dodatki"
+                "ENG": "[+] Added new pickaxes\n[+] Added new festive skins"
             },
             "PatchNotes": {
                 "ENG": "Patch Notes:",
