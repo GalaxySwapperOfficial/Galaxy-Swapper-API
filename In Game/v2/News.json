@@ -1,10 +1,17 @@
 [
     {
         "Type": null,
-        "IMG": "https://cdn.discordapp.com/attachments/1006267330399060018/1050620236711333959/NEws.png",
-        "Header": "Welcome to version 1.00!",
-        "Description": "Whats new?\nWe have added many new features including language selection,\nsplash screen and remastered our dashboard, settings, themes and more!\nWe are hoping these changes will bring a new fresh look to Galaxy Swapper!",
-        "URL": "https://www.galaxyswapperv2.com/"
+        "IMG": "https://cdn.discordapp.com/attachments/935054396004380736/1052299756451410030/Winterfest.png",
+        "Header": "The OG squad has gotten festive!",
+        "Description": "Try out our new custom festive outfits now!",
+        "URL": null
+    },
+    {
+        "Type": null,
+        "IMG": "https://cdn.discordapp.com/attachments/935054396004380736/1052301591983689798/PickaxesNews.png",
+        "Header": "Pickaxe tab has made a return!",
+        "Description": "We have brought back the old pickaxes and added new!",
+        "URL": null
     },
     {
         "Type": "FortniteNews",
