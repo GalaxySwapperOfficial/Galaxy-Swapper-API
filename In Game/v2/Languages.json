@@ -15,6 +15,10 @@
         {
             "Name": "Portuguese",
             "Short": "POR"
+        },
+        {
+            "Name": "Hebrew",
+            "Short": "HEB"
         }
     ],
     "Interface": {
@@ -26,43 +30,50 @@
                 "ENG": "Activate your key",
                 "SPAN": "Activa tu clave",
                 "POL": "Aktywuj klucz",
-                "POR":"Ative sua Chave"
+                "POR":"Ative sua Chave",
+                "HEB": "תפעיל את המפתח"
             },
             "Tip": {
                 "ENG": "Don't have a key?",
-                "SPAN": "¿No tienes una llave?",
+                "SPAN": "¿No tienes una clave?",
                 "POL": "Nie masz klucza aktywacyjnego?",
-                "POR":"Não tem uma chave?"
+                "POR":"Não tem uma chave?",
+                "HEB": "אין לך מפתח?"
             },
             "TipHyperlink": {
                 "ENG": "Get a free key",
                 "SPAN": "Obtenga una clave gratis",
                 "POL": "Zdobądź darmowy klucz aktywacyjny",
-                "POR":"Obtenha uma chave grátis"
+                "POR":"Obtenha uma chave grátis",
+                "HEB": "תשיג מפתח חינם"
             },
             "Help": {
                 "ENG": "Need help?",
                 "SPAN": "¿Necesitas ayuda?",
                 "POL": "Potrzebujesz pomocy?",
-                "POR":"Preciso de ajuda?"
+                "POR":"Preciso de ajuda?",
+                "HEB": "צריך עזרה?"
             },
             "HelpHyperlink": {
                 "ENG": "Join our discord",
-                "SPAN": "Únase a nuestra discordia",
+                "SPAN": "Unete a nuestro discord",
                 "POL": "Dołącz do naszego discorda",
-                "POR":"Junte-se a nossa discórdia"
+                "POR":"Junte-se a nossa discórdia",
+                "HEB": "תכנס לדיסקורד שלנו"
             },
             "Key": {
                 "ENG": "Key:",
-                "SPAN": "Llave:",
+                "SPAN": "Clave:",
                 "POL": "Klucz:",
-                "POR":"Chave:"
+                "POR":"Chave:",
+                "HEB": "מפתח"
             },
             "ButtonActivate": {
                 "ENG": "Activate",
                 "SPAN": "Activar",
                 "POL": "Aktywuj",
-                "POR": "Ativar"
+                "POR": "Ativar",
+                "HEB": "תפעיל"
             }
         },
         "MainView": {
@@ -70,55 +81,64 @@
                 "ENG": "Dashboard",
                 "SPAN": "Tablero",
                 "POL": "Panel",
-                "POR": "Painel"
+                "POR": "Painel",
+                "HEB": "לוח"
             },
             "Skins": {
                 "ENG": "Skins",
-                "SPAN": "Pieles",
+                "SPAN": "Atuendos",
                 "POL": "Skiny",
-                "POR": "Roupas"
+                "POR": "Roupas",
+                "HEB": "סטיילים"
             },
             "Backblings": {
                 "ENG": "Back Blings",
-                "SPAN": "Adornos traseros",
+                "SPAN": "Mochilas",
                 "POL": "Plecaki",
-                "POR": "Mochilas"
+                "POR": "Mochilas",
+                "HEB": "תיקים"
             },
             "Pickaxes": {
                 "ENG": "Pickaxes",
-                "SPAN": "picos",
+                "SPAN": "Picos",
                 "POL": "Kilofy",
-                "POR": "Picaretas"
+                "POR": "Picaretas",
+                "HEB": "מקושים"
             },
             "Emotes": {
                 "ENG": "Emotes",
                 "SPAN": "Danzas",
                 "POL": "Emotki",
-                "POR": "Danças"
+                "POR": "Danças",
+                "HEB":"ריקודים"
             },
             "Wraps": {
                 "ENG": "Weapons",
-                "SPAN": "armas",
+                "SPAN": "Armas",
                 "POL": "Malowania",
-                "POR": "Envelopamentos"
+                "POR": "Envelopamentos",
+                "HEB": "נשקים"
             },
             "Plugins": {
                 "ENG": "Plugins",
                 "SPAN": "Complementos",
                 "POL": "Pluginy",
-                "POR": "Plugins"
+                "POR": "Plugins",
+                "HEB": "פלאגין"
             },
             "Misc": {
                 "ENG": "Misc",
-                "SPAN": "Varios",
+                "SPAN": "Otro",
                 "POL": "Dodatki",
-                "POR": "Diversidades"
+                "POR": "Diversidades",
+                "HEB": "מיסק"
             },
             "Settings": {
                 "ENG": "Settings",
                 "SPAN": "Ajustes",
                 "POL": "Ustawienia",
-                "POR": "Definições"
+                "POR": "Definições",
+                "HEB": "הגדרות"
             },
             "Discord": {
                 "ENG": "Discord"
@@ -126,30 +146,35 @@
             "EXTRA": {
                 "ENG": "EXTRA",
                 "POL": "Dodatki v2",
-                "POR": "Definições"
+                "POR": "Definições",
+                "HEB": "אקסטרה"
             },
             "Search": {
                 "ENG": "Search",
-                "SPAN": "Búsqueda",
+                "SPAN": "Buscar",
                 "POL": "Wyszukaj",
-                "POR": "Procurar"
+                "POR": "Procurar",
+                "HEB": "חיפוש"
             }
         },
         "DashboardView": {
             "Notes": {
-                "ENG": "[+] Added new pickaxes\n[+] Added new festive skins"
+                "ENG": "[!] Fixed Skins\n[!] Fixed Back Blings\n[!] Fixed Pickaxes\n[!] Fixed Emotes\n[?] Disabled Wraps\n[?] Disabled Misc",
+                "POL": "[!] Naprawiono Skiny\n[!] Naprawiono Plecaki\n[!] Naprawiono Kilofy\n[!] Naprawiono Emotki\n[?] Wyłączono Malowania\n[?] Wyłączono Dodatki"
             },
             "PatchNotes": {
                 "ENG": "Patch Notes:",
                 "SPAN": "Notas del parche:",
                 "POL": "Lista zmian",
-                "POR": "Notas do Patch:"
+                "POR": "Notas do Patch:",
+                "HEB": "דברים חדשים"
             },
             "MoreNews": {
                 "ENG": "More News:",
                 "SPAN": "Mas noticias:",
                 "POL": "Więcej Newsow",
-                "POR": "Mais notícias:"
+                "POR": "Mais notícias:",
+                "HEB": "עוד עדכונים"
             },
             "Copyright": {
                 "ENG": "Galaxy Swapper v2"
@@ -158,7 +183,8 @@
                 "ENG": "Created by Wslt#7904",
                 "SPAN": "Creado por Wslt#7904",
                 "POL": "Stworzono przez Wslt#7904",
-                "POR": "Criado por Wslt#7904"
+                "POR": "Criado por Wslt#7904",
+                "HEB": "נוצר על ידי Wslt#7904"
             }
         },
         "SettingsView": {
@@ -166,192 +192,221 @@
                 "ENG": "Select your Fortnite install location",
                 "SPAN": "Seleccione su ubicación de instalación de Fortnite",
                 "POL": "Wybierz lokalizacje instalacji Fortnite",
-                "POR": "Selecione o local de instalação do Fortnite"
+                "POR": "Selecione o local de instalação do Fortnite",
+                "HEB": "תבחר איפה הקבצים של הפורטניט שלך נמצא"
             },
             "FortniteInstallHeader": {
                 "ENG": "Fortnite Install Location",
                 "SPAN": "Ubicación de instalación de Fortnite",
                 "POL": "Lokalizacja Instalacji Fortnite'a",
-                "POR": "Local de instalação do Fortnite"
+                "POR": "Local de instalação do Fortnite",
+                "HEB": "קבצים של הפורטנייט"
             },
             "FortniteInstallDescription": {
                 "ENG": "Need to change your Fortnite install location? Click the folder!",
                 "SPAN": "¿Necesitas cambiar tu ubicación de instalación de Fortnite? ¡Haz clic en la carpeta!",
                 "POL": "Potrzebujesz zmienić miejsce instalacji Fortnite'a? Wybierz folder!",
-                "POR": "Precisa alterar o local de instalação do Fortnite? Clique na pasta!"
+                "POR": "Precisa alterar o local de instalação do Fortnite? Clique na pasta!",
+                "HEB": "צאיך לשנות את המיקום של הקבצים של הפורטניט שלך תלחץ על התקייה"
             },
             "LanguageHeader": {
                 "ENG": "Language",
                 "SPAN": "Idioma",
                 "POL": "Język",
-                "POR": "Linguagem"
+                "POR": "Linguagem",
+                "HEB": "עברית"
             },
             "LanguageDescription": {
                 "ENG": "Need to change your language? Click 'Change Language'",
-                "SPAN": "¿Necesitas cambiar tu idioma? Haga clic en 'Cambiar idioma'",
+                "SPAN": "¿Necesitas cambiar el idioma? Haga clic en 'Cambiar idioma'",
                 "POL": "Chcesz zmienić język",
-                "POR": "Precisa mudar seu idioma? Clique em 'Alterar idioma'"
+                "POR": "Precisa mudar seu idioma? Clique em 'Alterar idioma'",
+                "HEB": "צריך לשנות שפה תלחץ על לשנות שפה"
             },
             "EditLanguage": {
                 "ENG": "Change Language",
                 "SPAN": "Cambiar idioma",
                 "POL": "Zmień język",
-                "POR": "Mudar idioma"
+                "POR": "Mudar idioma",
+                "HEB": "לשנות שפה"
             },
             "AccountInfoHeader": {
                 "ENG": "Account Info",
                 "SPAN": "Informacion de cuenta",
                 "POL": "Informacje o koncie",
-                "POR": "Informações da Conta"
+                "POR": "Informações da Conta",
+                "HEB": "מידע על המשתמש"
             },
             "AccountInfoDescription": {
                 "ENG": "Want to know how long you have left on your key? Here you go.",
-                "SPAN": "¿Quieres saber cuánto tiempo te queda en tu llave? Aquí tienes.",
+                "SPAN": "¿Quieres saber cuánto tiempo te queda en tu clave? Aquí tienes.",
                 "POL": "Chcesz wiedzieć ile zostało czasu do wygasnięcia klucza? Prosze bardzo.",
-                "POR": "Quer saber quanto tempo você deixou em sua chave? Aqui está."
+                "POR": "Quer saber quanto tempo você deixou em sua chave? Aqui está.",
+                "HEB": "רוצה לדעת כמה זמן נשאר למפתח שלך? הנה"
             },
             "Username": {
                 "ENG": "Username: {0}",
                 "SPAN": "Nombre de usuario: {0}",
                 "POL": "Nazwa Użytkownika: {0}",
-                "POR": "Nome de usuário: {0}"
+                "POR": "Nome de usuário: {0}",
+                "HEB": "שם משתמש: {0}"
             },
             "DaysLeft": {
                 "ENG": "Days Left: {0}",
                 "SPAN": "Días restantes: {0}",
                 "POL": "Pozostało Dni: {0}",
-                "POR": "Dias restantes: {0}"
+                "POR": "Dias restantes: {0}",
+                "HEB": "ימים שנשארו: {0}"
             },
             "ExpiresOn": {
                 "ENG": "Expires On: {0}",
                 "SPAN": "Caduca el: {0}",
                 "POL": "Wygasa: {0}",
-                "POR": "Expira em: {0}"
+                "POR": "Expira em: {0}",
+                "HEB": "פג תוקף ב: {0}"
             },
             "FortniteHeader": {
                 "ENG": "Fortnite"
             },
             "FortniteDescription": {
                 "ENG": "Having issues with fortnite? This is the spot to go.",
-                "SPAN": "¿Tienes problemas con fortnite? Este es el lugar para ir.",
+                "SPAN": "¿Tienes problemas con Fortnite? Esto te ayudara.",
                 "POL": "Masz problem z fortnite? Udaj się tutaj.",
-                "POR": "Está tendo problemas com fortnite? Este é o lugar certo."
+                "POR": "Está tendo problemas com fortnite? Este é o lugar certo.",
+                "HEB": "יש לך בעייות עם הפורטנייט? זה המקום הנכון ללכת"
             },
             "StartFortnite": {
                 "ENG": "Start Fortnite",
                 "SPAN": "Iniciar Fortnite",
                 "POL": "Włącz Fortnite",
-                "POR": "Iniciar Fortnite"
+                "POR": "Iniciar Fortnite",
+                "HEB": "התחל את הפורטנייט"
             },
             "CloseFortnite": {
                 "ENG": "Close Fortnite",
                 "SPAN": "Cerrar Fortnite",
                 "POL": "Zamknij Fortnite",
-                "POR": "Fechar Fortnite"
+                "POR": "Fechar Fortnite",
+                "HEB": "לסגור את הפורטנייט"
             },
             "RemoveDupedUcas": {
                 "ENG": "Remove Duped Ucas",
                 "SPAN": "Eliminar Duped Ucas",
                 "POL": "Usuń zduplikowany Ucas",
-                "POR": "Remover Duped Ucas"
+                "POR": "Remover Duped Ucas",
+                "HEB": "למחוק את הקבצים של הסקינים"
             },
             "VerifyFortnite": {
                 "ENG": "Verify Fortnite",
                 "SPAN": "Verificar Fortnite",
                 "POL": "Zweryfikuj Fortnite",
-                "POR": "Verificar Fortnite"
+                "POR": "Verificar Fortnite",
+                "HEB": "לשחזר את הפורטנייט למצבו הרגיל"
             },
             "ConvertedItemsHeader": {
                 "ENG": "Converted Items",
-                "SPAN": "Artículos convertidos",
+                "SPAN": "Cosmeticos convertidos",
                 "POL": "Zmienione rzeczy",
-                "POR": "Itens convertidos"
+                "POR": "Itens convertidos",
+                "HEB": "להחזיר את הסקינים"
             },
             "ConvertedItemsDescription": {
                 "ENG": "Forgot what you swapped? Well here you go.",
-                "SPAN": "¿Olvidaste lo que cambiaste? Bueno, aquí tienes.",
+                "SPAN": "¿Olvidaste lo que intercambiaste? Bueno, aquí tienes.",
                 "POL": "Zapomniałeś co zmieniłes? Sprawdź tutaj.",
-                "POR": "Esqueceu o que trocou? Bem, aqui está."
+                "POR": "Esqueceu o que trocou? Bem, aqui está.",
+                "HEB": "שככת מה שינית? הנה פה זה נמצא"
             },
             "ItemsSwapped": {
                 "ENG": "Items Swapped: {0}",
-                "SPAN": "Artículos intercambiados: {0}",
+                "SPAN": "Cosmeticos intercambiados: {0}",
                 "POL": "Zmienione Rzeczy: {0}",
-                "POR": "Itens trocados: {0}"
+                "POR": "Itens trocados: {0}",
+                "HEB": "פריטים ששינית: {0}"
             },
             "Show": {
                 "ENG": "Show",
-                "SPAN": "Espectáculo",
+                "SPAN": "Mostrar",
                 "POL": "Pokaż",
-                "POR": "mostrar"
+                "POR": "mostrar",
+                "HEB": "הראה"
             },
             "Reset": {
                 "ENG": "Reset",
                 "SPAN": "Reiniciar",
                 "POL": "Resetuj",
-                "POR": "Redefinir"
+                "POR": "Redefinir",
+                "HEB": "לשחזר"
             },
             "MiscellaneousHeader": {
                 "ENG": "Miscellaneous",
-                "SPAN": "Misceláneos",
+                "SPAN": "Otros",
                 "POL": "Pozostałe",
-                "POR": "Diversos"
+                "POR": "Diversos",
+                "HEB": "מגוון"
             },
             "MiscellaneousDescription": {
                 "ENG": "Some more advanced options just for you!",
                 "SPAN": "¡Algunas opciones más avanzadas solo para ti!",
                 "POL": "Więcej zaawansowanych opcji właśnie dla ciebie!",
-                "POR": "Algumas opções mais avançadas só para você!"
+                "POR": "Algumas opções mais avançadas só para você!",
+                "HEB": "עוד הגדרות מתקדמות ממש בשבילך"
             },
             "ThemeEditor": {
                 "ENG": "Theme Editor",
                 "SPAN": "Editor de temas",
                 "POL": "Edytor Motywów",
-                "POR": "Editor de temas"
+                "POR": "Editor de temas",
+                "HEB": "צבע הרקע"
             },
             "RefreshCosmeticTabs": {
                 "ENG": "Refresh Cosmetics",
-                "SPAN": "Cosméticos refrescantes",
+                "SPAN": "Refrescar Cosmeticos",
                 "POL": "Odświerz Dodatki",
-                "POR": "Atualizar Cosméticos"
+                "POR": "Atualizar Cosméticos",
+                "HEB": "לשחזר פריטים"
             },
             "DiscordRichPresence": {
                 "ENG": "Discord Rich Presence",
-                "SPAN": "Presencia rica en discordia",
-                "POL": "Pokazywanie Discorda",
-                "POR": "Discord Rich Presence"
+                "SPAN": "Presencia rica en discord",
+                "POL": "Pokazywanie Discorda"
             },
             "AutoCloseFortnite": {
                 "ENG": "Auto Close Fortnite",
-                "SPAN": "Cierre automático Fortnite",
+                "SPAN": "Cerrar Fortnite Automaticamente",
                 "POL": "Automatycznie Zamknij Fortnite'a",
-                "POR": "Fechamento Automático do Fortnite"
+                "POR": "Fechamento Automático do Fortnite",
+                "HEB": "לסגור פורטנייט אוטומטי"
             },
             "LowQualityIcons": {
                 "ENG": "Low Quality Icons",
                 "SPAN": "Iconos de baja calidad",
                 "POL": "Niska Jakość Ikon",
-                "POR": "Ícones de baixa qualidade"
+                "POR": "Ícones de baixa qualidade",
+                "HEB": "תמונה באיכות נמוכה"
             },
             "EmoteWarning": {
                 "ENG": "Emote Warning",
-                "SPAN": "Advertencia de emoticonos",
+                "SPAN": "Advertencia de bailes",
                 "POL": "Ostrzeżenie Emotek",
-                "POR": "Aviso de Emote"
+                "POR": "Aviso de Emote",
+                "HEB": "תזהר מהריקודים"
             }
         },
         "OptionsView": {
             "Header": {
                 "ENG": "What option would you like to swap?",
-                "SPAN": "¿Qué opción te gustaría cambiar?",
+                "SPAN": "¿Qué opción te gustaría intercambiar?",
                 "POL": "Jaką opcje chciałbyś zamienić?",
-                "POR": "Qual opção você gostaria de trocar?"
+                "POR": "Qual opção você gostaria de trocar?",
+                "HEB": "מה תרצה לשנות בפריטים"
             },
             "Tip": {
                 "ENG": "You must own the cosmetic you select!",
                 "SPAN": "¡Debes tener el cosmético que selecciones!",
                 "POL": "Musisz posiadać przedmiot który zaznaczysz!",
-                "POR": "Você deve possuir o cosmético que selecionar!"
+                "POR": "Você deve possuir o cosmético que selecionar!",
+                "HEB": "אתה מחויב שהיה לך את הפריט שאתה רוצה לשנות איתו"
             }
         },
         "SwapView": {
@@ -359,180 +414,211 @@
                 "ENG": "Convert",
                 "SPAN": "Convertir",
                 "POL": "Zamień",
-                "POR": "Converter"
+                "POR": "Converter",
+                "HEB": "לממש"
             },
             "Revert": {
                 "ENG": "Revert",
                 "SPAN": "Revertir",
                 "POL": "Przywróć",
-                "POR": "Reverter"
+                "POR": "Reverter",
+                "HEB": "להחזיר"
             },
             "DefaultLOG": {
                 "ENG": "Waiting for input..",
                 "SPAN": "Esperando entrada..",
                 "POL": "Czekam na rozpoczęcie..",
-                "POR": "Aguardando entrada.."
+                "POR": "Aguardando entrada..",
+                "HEB": "מחכה שתפעיל"
             },
             "ON": {
                 "ENG": "ON",
-                "SPAN": "EN",
+                "SPAN": "PRENDIDO",
                 "POL": "WŁĄCZONO",
-                "POR": "SOBRE"
+                "POR": "SOBRE",
+                "HEB": "דלוק"
             },
             "OFF": {
                 "ENG": "OFF",
                 "SPAN": "APAGADO",
                 "POL": "WYŁĄCZONO",
-                "POR": "DESLIGADO"
+                "POR": "DESLIGADO",
+                "HEB": "כבוי"
             },
             "CompletedMinutes": {
                 "ENG": "Completed In {0}:{1}",
                 "SPAN": "Completado en {0}:{1}",
                 "POL": "Zakończono w {0}:{1}",
-                "POR": "Concluído em {0}:{0}"
+                "POR": "Concluído em {0}:{0}",
+                "HEB": "הושלם ב-{0}:{1}"
             },
             "CompletedSeconds": {
                 "ENG": "Completed In 0:{0}",
                 "SPAN": "Completado en 0:{0}",
                 "POL": "Zakończono w {0}:{0}",
-                "POR": "Concluído em 0:{0}"
+                "POR": "Concluído em 0:{0}",
+                "HEB": "הושלם ב-0:{0}"
             },
             "Provider": {
                 "ENG": "Initializing Provider",
                 "SPAN": "Inicializando proveedor",
                 "POL": "Inicjowanie Dostawca",
-                "POR": "Inicializando provedor"
+                "POR": "Inicializando provedor",
+                "HEB": "מאתחל"
             },
             "Disposing": {
                 "ENG": "Disposing Provider",
                 "SPAN": "Proveedor de eliminación",
                 "POL": "Usuwanie Dostawca",
-                "POR": "Provedor de descarte"
+                "POR": "Provedor de descarte",
+                "HEB": "סילוק"
             },
             "Exporting": {
                 "ENG": "Exporting {0}",
                 "SPAN": "Exportador {0}",
                 "POL": "Eksportowanie {0}",
-                "POR": "Exportando {0}"
+                "POR": "Exportando {0}",
+                "HEB": "מייצא: {0}"
             },
             "Parse": {
                 "ENG": "Parsing {0}",
-                "SPAN": "análisis {0}",
+                "SPAN": "Analizando {0}",
                 "POL": "Analizowanie {0}",
-                "POR": "Analisando {0}"
+                "POR": "Analisando {0}",
+                "HEB": "ניתוח: {0}"
             },
             "StartingSwap": {
                 "ENG": "Starting swap",
                 "SPAN": "Comenzando intercambio",
                 "POL": "Zaczynam zamiane",
-                "POR": "Iniciando a troca"
+                "POR": "Iniciando a troca",
+                "HEB": "מתחיל לשנות"
             },
             "TypeString": {
                 "ENG": "Swapping as string",
-                "SPAN": "Intercambio como cadena",
+                "SPAN": "Intercambio como string",
                 "POL": "Zamienianie w nić",
-                "POR": "Trocando como string"
+                "POR": "Trocando como string",
+                "HEB": "החלפה כמחרוזת"
             },
             "TypeHex": {
                 "ENG": "Swapping as hex",
                 "SPAN": "Intercambio como hexadecimal",
                 "POL": "Zamienianie w hex",
-                "POR": "Trocar como hexadecimal"
+                "POR": "Trocar como hexadecimal",
+                "HEB": "החלפה כמשושה"
             },
             "FailedStringAnyLength": {
                 "ENG": "Failed to allocate length with strings",
-                "SPAN": "Error al asignar longitud con cadenas",
+                "SPAN": "Error al asignar longitud con strings",
                 "POL": "Nieudano rozdysponowanie długości z nici",
-                "POR": "Falha ao alocar comprimento com strings"
+                "POR": "Falha ao alocar comprimento com strings",
+                "HEB": "הקצאת אורך עם מחרוזות נכשלה"
             },
             "FailedTeleAnyLength": {
                 "ENG": "Failed to allocate length with Tele",
                 "SPAN": "No se pudo asignar la longitud con Tele",
                 "POL": "Nieudano rozdysponować długości z Tele",
-                "POR": "Falha ao alocar comprimento com Tele"
+                "POR": "Falha ao alocar comprimento com Tele",
+                "HEB": "הקצאת אורך עם Tele נכשלה"
             },
             "FailedCompress": {
                 "ENG": "Failed to fix compression length",
                 "SPAN": "Error al corregir la longitud de compresión",
                 "POL": "Nieudano naprawić kompresji długości",
-                "POR": "Falha ao corrigir o comprimento da compactação"
+                "POR": "Falha ao corrigir o comprimento da compactação",
+                "HEB": "נכשל בתיקון אורך הדחיסה"
             },
             "AdjustingLength": {
                 "ENG": "Adjusting length of asset",
                 "SPAN": "Ajuste de la longitud del activo",
                 "POL": "Dostosowywanie długości pliku",
-                "POR": "Ajustando o comprimento do recurso"
+                "POR": "Ajustando o comprimento do recurso",
+                "HEB": "התאמת אורך הנכס"
             },
             "InvalidatingPartData": {
                 "ENG": "Invalidating partdata",
                 "SPAN": "Invalidación de datos de pieza",
                 "POL": "Zastąpianie części danych",
-                "POR": "Invalidando partdata"
+                "POR": "Invalidando partdata",
+                "HEB": "מבטל נתוני חלקים"
             },
             "CompressingAsset": {
                 "ENG": "Compressing asset",
-                "SPAN": "Compresión de activos",
+                "SPAN": "Comprimiendo archivo",
                 "POL": "Kompresowanie pliku",
-                "POR": "Comprimindo recurso"
+                "POR": "Comprimindo recurso",
+                "HEB": "דחיסת נכס"
             },
             "BackingUp": {
                 "ENG": "Backing up Pakchunks",
                 "SPAN": "Copia de seguridad de Pakchunks",
                 "POL": "Robienie kopii Pakchunk'ów",
-                "POR": "Backup de Pakchunks"
+                "POR": "Backup de Pakchunks",
+                "HEB": "למצוא את הקבצים"
             },
             "BackingUpName": {
                 "ENG": "Backing up {0}",
                 "SPAN": "Copia de seguridad {0}",
                 "POL": "Robienie kopii {0}",
-                "POR": "Fazendo backup {0}"
+                "POR": "Fazendo backup {0}",
+                "HEB": "למצוא: {0}"
             },
             "BackupWarning": {
                 "ENG": "BACKING UP FILES CAN TAKE UP TO 5/10 MINUTES",
+                "SPAN": "COPIANDO ARCHIVOS DE SEGURIDAD PUEDE TOMAR 5/10 MINUTOS",
                 "POL": "ROBIENIE KOPII PLIKÓW MOŻE ZAJĄĆ 5/10 MINUT",
-                "POR": "O BACKUP DOS ARQUIVOS PODE LEVAR ATÉ 5/10 MINUTOS"
+                "POR": "O BACKUP DOS ARQUIVOS PODE LEVAR ATÉ 5/10 MINUTOS",
+                "HEB": "למצוא את הקבצים יכול לקחת 5 עד 10 דקות"
             },
             "BackupOutOfSpace": {
                 "ENG": "{0} Has ran out of space!",
-                "SPAN": "{0} ¡Se ha quedado sin espacio!",
+                "SPAN": "{0} ¡No tienes espacio!",
                 "POL": "{0} Nie miało pamięci!",
-                "POR": "{0} Ficou sem espaço!"
+                "POR": "{0} Ficou sem espaço!",
+                "HEB": "נגמר מלמצוא מקום: {0}"
             },
             "GameFilesInUse": {
                 "ENG": "Game files in use!",
                 "SPAN": "¡Archivos de juego en uso!",
                 "POL": "Pliki gry są w użyciu!",
-                "POR": "Arquivos do jogo em uso!"
+                "POR": "Arquivos do jogo em uso!",
+                "HEB": "קבצי המשחק בשימוש!"
             },
             "EditingPakChunk": {
                 "ENG": "Editing {0}",
                 "SPAN": "Editando {0}",
                 "POL": "Edytowanie {0}",
-                "POR": "Editando {0}"
+                "POR": "Editando {0}",
+                "HEB": "עֲרִיכָה:{0}"
             },
             "StartConverting": {
                 "ENG": "Starting to convert",
                 "SPAN": "Comenzando a convertir",
                 "POL": "Rozpoczynanie zamiany",
-                "POR": "Começando a converter"
+                "POR": "Começando a converter",
+                "HEB": "להתחיל לשנות"
             },
             "StartReverting": {
                 "ENG": "Starting to revert",
                 "SPAN": "Empezando a revertir",
                 "POL": "Rozpoczynanie Cofania",
-                "POR": "Começando a reverter"
+                "POR": "Começando a reverter",
+                "HEB": "מתחיל לשחזר"
             },
             "ConvertingCount": {
                 "ENG": "Converting asset {0}",
                 "SPAN": "Convirtiendo activo {0}",
                 "POL": "Przetwarzanie pliku {0}",
-                "POR": "Convertendo recurso {0}"
+                "POR": "Convertendo recurso {0}",
+                "HEB": "משנה את הנכס: {0}"
             },
             "RevertingCount": {
                 "ENG": "Reverting asset {0}",
                 "SPAN": "Revirtiendo activo {0}",
                 "POL": "Cofanie pliku {0}",
-                "POR": "Revertendo ativo {0}"
+                "POR": "Revertendo ativo {0}",
+                "HEB": "משחזר את הנכס:{0}"
             }
         },
         "LanguageView": {
@@ -540,7 +626,8 @@
                 "ENG": "Change Language",
                 "SPAN": "Cambiar idioma",
                 "POL": "Zmień język",
-                "POR": "Mudar idioma"
+                "POR": "Mudar idioma",
+                "HEB": "שנה שפה"
             }
         },
         "ThemeView": {
@@ -548,61 +635,71 @@
                 "ENG": "Interface Colors",
                 "SPAN": "Colores de la interfaz",
                 "POL": "Kolor Interfejsu",
-                "POR": "Cores da Interface"
+                "POR": "Cores da Interface",
+                "HEB": "צבע הנשק"
             },
             "MainColor": {
                 "ENG": "Main Color:",
                 "SPAN": "Color principal:",
                 "POL": "Główny Kolor",
-                "POR": "Cor Principal:"
+                "POR": "Cor Principal:",
+                "HEB": "הצבע הרגיל"
             },
             "HighlightColor": {
                 "ENG": "Highlight Color:",
                 "SPAN": "Color de resaltado:",
                 "POL": "Kolor Podświetlenia",
-                "POR": "Cor de destaque:"
+                "POR": "Cor de destaque:",
+                "HEB": "דגש הצבע:"
             },
             "ButtonColor": {
                 "ENG": "Button Color:",
-                "SPAN": "Color del boton:",
+                "SPAN": "Color de los botones:",
                 "POL": "Kolor Przycisków",
-                "POR": "Cor do botao:"
+                "POR": "Cor do botao:",
+                "HEB": "צבע הכפתור:"
             },
             "TextColor": {
                 "ENG": "Text Color:",
-                "SPAN": "Color de texto:",
+                "SPAN": "Color de textos:",
                 "POL": "Kolor Tekstu",
-                "POR": "Cor do texto:"
+                "POR": "Cor do texto:",
+                "HEB": "צבע הטקסט:"
             },
             "2ndTextColor": {
                 "ENG": "2nd Text Color:",
                 "SPAN": "Segundo color de texto:",
                 "POL": "Drugi Kolor Tekstu",
-                "POR": "2ª Cor do Texto:"
+                "POR": "2ª Cor do Texto:",
+                "HEB": "צבע שני לטקסט:"
             },
             "CosmeticIconSizeHeader": {
                 "ENG": "Cosmetic Icon Size",
-                "SPAN": "Tamaño del icono cosmético",
+                "SPAN": "Tamaño del icono del cosmético",
                 "POL": "Wielkość Ikon",
-                "POR": "Tamanho do ícone cosmético"
+                "POR": "Tamanho do ícone cosmético",
+                "HEB": "גודל התמונה של הפריט"
             },
             "Size": {
                 "ENG": "Size: {0}",
                 "SPAN": "Tamaño: {0}",
                 "POL": "Wielkość {0}",
-                "POR": "Tamanho: {0}"
+                "POR": "Tamanho: {0}",
+                "HEB": "גודל: {0}"
             },
             "SizeDefault": {
                 "ENG": "Size: {0} (Default)",
                 "SPAN": "Tamaño: {0} (predeterminado)",
                 "POL": "Wielkość {0} (Początkowa)",
-                "POR": "Tamanho: {0} (Padrão)"
+                "POR": "Tamanho: {0} (Padrão)",
+                "HEB": "גודל: {0} (בחירת מחדל)"
             },
             "ResetChanges": {
                 "ENG": "Reset Changes",
                 "SPAN": "Restablecer cambios",
                 "POL": "Zresetuj Zmiany",
-                "POR": "Redefinir alterações"
+                "POR": "Redefinir alterações",
+                "HEB": "לשחזר שינויים"
             }
         },
         "PluginsView": {
@@ -610,13 +707,15 @@
                 "ENG": "Select a plugin file!",
                 "SPAN": "¡Seleccione un archivo de complemento!",
                 "POL": "Wybierz plik pluginu!",
-                "POR": "Selecione um arquivo de plug-in!"
+                "POR": "Selecione um arquivo de plug-in!",
+                "HEB": "תבחר את הקובץ של הפלאגין"
             },
             "Tip": {
                 "ENG": "Drag and drop plugins below!",
                 "SPAN": "¡Arrastra y suelta los complementos a continuación!",
                 "POL": "Przenieś i upuść pluginy poniżej",
-                "POR": "Arraste e solte os plugins abaixo!"
+                "POR": "Arraste e solte os plugins abaixo!",
+                "HEB": "תבחר ותשחחר את הפלאגין למטה"
             }
         }
     },
@@ -626,211 +725,246 @@
                 "ENG": "Info",
                 "SPAN": "Información",
                 "POL": "Informacje",
-                "POR": "Informações"
+                "POR": "Informações",
+                "HEB": "מידע"
             },
             "Error": {
                 "ENG": "Error",
                 "POL": "Błąd",
-                "POR": "Erro"
+                "POR": "Erro",
+                "HEB": "שגיא"
             },
             "Warning": {
                 "ENG": "Warning",
                 "SPAN": "Advertencia",
                 "POL": "Ostrzeżenie",
-                "POR": "Aviso"
+                "POR": "Aviso",
+                "HEB": "אזהרה"
             },
             "Question": {
                 "ENG": "Question",
                 "SPAN": "Pregunta",
                 "POL": "Pytanie",
-                "POR": "Pergunta"
+                "POR": "Pergunta",
+                "HEB": "שאלה"
             }
         },
         "LoginSuccess": {
             "ENG": "Successfully activated key! Welcome to galaxy swapper.",
-            "SPAN": "¡Llave activada con éxito! Bienvenido a galaxy swapper.",
+            "SPAN": "¡Clave activada con éxito! Bienvenido a galaxy swapper.",
             "POL": "Pomyślnie aktywowano klucz! Witaj w Galaxy Swapper.",
-            "POR": "Chave ativada com sucesso! Bem-vindo ao Galaxy Swapper!"
+            "POR": "Chave ativada com sucesso! Bem-vindo ao Galaxy Swapper!",
+            "HEB": "הצליח להעפיל את המפתח! שלום "
         },
         "LoginFailed": {
             "ENG": "Key is invalid! Please check if you inputed it correctly.",
-            "SPAN": "¡La clave no es válida! Por favor, compruebe si lo ha introducido correctamente.",
+            "SPAN": "¡La clave no es válida! Por favor, compruebe si la ha introducido correctamente.",
             "POL": "Klucz jest niepoprawny! Prosze sprawdź czy wprowadziłeś klucz poprawnie",
-            "POR": "A chave é inválida! Por favor, verifique se você digitou corretamente."
+            "POR": "A chave é inválida! Por favor, verifique se você digitou corretamente.",
+            "HEB": "המפתח לא נכון בבקשה תבדוק עם שמת אותו נכון"
         },
         "LoginFailedConnect": {
             "ENG": "Failed to activate key! Please try disabling windows firewall and ensure you have a stable connection and try again.",
             "SPAN": "¡Error al activar la clave! Intente deshabilitar el firewall de Windows y asegúrese de tener una conexión estable y vuelva a intentarlo.",
             "POL": "Nieudano aktywować klucz! Prosze spróbuj wyłączyć zaporę ogniową winodwa i pamiętaj o stałym połączeniu do internetu. Spróbuj ponownie.",
-            "POR": "Falha ao ativar a chave! Por favor, tente desabilitar o firewall do Windows e certifique-se de ter uma conexão estável e tente novamente."
+            "POR": "Falha ao ativar a chave! Por favor, tente desabilitar o firewall do Windows e certifique-se de ter uma conexão estável e tente novamente.",
+            "HEB": "לא הצליח להעפיל את המפתח בבקשה תנסה לבטל את האנטי וירוס"
         },
         "FortniteDirectoryEmpty": {
             "ENG": "Fortnite directory is invalid or empty! To fix this, simply visit the settings tab and click the folder icon and select your Fortnite path.",
             "SPAN": "¡El directorio de Fortnite no es válido o está vacío! Para solucionar esto, simplemente visite la pestaña de configuración y haga clic en el icono de la carpeta y seleccione su ruta de Fortnite.",
             "POL": "Folder z Fortnite jest niepoprawny albo pusty! By to naprawić poprostu sprawdź ustawienia i kliknij na folder i wybierz ścieżkę Fortnite.",
-            "POR": "O diretório do Fortnite é inválido ou está vazio! Para corrigir isso, basta visitar a guia de configurações, clicar no ícone da pasta e selecionar o caminho do Fortnite"
+            "POR": "O diretório do Fortnite é inválido ou está vazio! Para corrigir isso, basta visitar a guia de configurações, clicar no ícone da pasta e selecionar o caminho do Fortnite",
+            "HEB": "הקבצים שלך לא נכונים או ריקים תנסה לסדר את זה בכך שתבחר את הקבצים של הפורטנייט שלך"
         },
         "FortniteDirectoryInvalid": {
             "ENG": "Fortnite directory no longer exists on this PC! To fix this, simply visit the settings tab and click the folder icon and select your Fortnite path.",
             "SPAN": "¡El directorio de Fortnite ya no existe en esta PC! Para solucionar esto, simplemente visite la pestaña de configuración y haga clic en el icono de la carpeta y seleccione su ruta de Fortnite.",
             "POL": "Folder z Fortnite już nie istnieje na tym komputerze! By to napraić poprostu wejdź w ustawienia i kliknij na folder i wybierz ścieżkę Fortnite.",
-            "POR": "O diretório Fortnite não existe mais neste PC! Para corrigir isso, basta visitar a guia de configurações, clicar no ícone da pasta e selecionar o caminho do Fortnite."
+            "POR": "O diretório Fortnite não existe mais neste PC! Para corrigir isso, basta visitar a guia de configurações, clicar no ícone da pasta e selecionar o caminho do Fortnite.",
+            "HEB": "ספריית הפורטנייט של כבר לא נמצאת על המחשב הזה"
         },
         "WorkerBusy": {
             "ENG": "Convert worker is already running! Please wait for the swap to complete before interacting again.",
-            "SPAN": "¡Convertir trabajador ya se está ejecutando! Espere a que se complete el intercambio antes de volver a interactuar.",
+            "SPAN": "¡El convertidor ya se está ejecutando! Espere a que se complete el intercambio antes de volver a interactuar.",
             "POL": "Coś jest już zamieniane! Prosze poczekaj żeby zmiana się zakończyła i wtedy spróbuj ponownie.",
-            "POR": "O operador de conversão já está em execução! Aguarde a conclusão da troca antes de interagir novamente."
+            "POR": "O operador de conversão já está em execução! Aguarde a conclusão da troca antes de interagir novamente.",
+            "HEB": "שינוי הסקין כבר עובד בבקשה תחכה שהסקין ישתנה לפני לחיצה נוספת"
         },
         "CompletedSwapMinutes": {
             "ENG": "Successfully Converted In {0} Minutes!",
             "SPAN": "¡Convertido con éxito en {0} minutos!",
             "POL": "Pomyślnie Zmieniono w {0} Minut!",
-            "POR": "Convertido com sucesso em {0} minutos!"
+            "POR": "Convertido com sucesso em {0} minutos!",
+            "HEB": "הומר בהצלחה תוך {0} דקות!"
         },
         "CompletedSwapSeconds": {
             "ENG": "Successfully Converted In {0} Seconds!",
             "SPAN": "¡Convertido con éxito en {0} segundos!",
             "POL": "Pomyśnie Zamieniono w {0} Sekund!",
-            "POR": "Convertido com sucesso em {0} segundos!"
+            "POR": "Convertido com sucesso em {0} segundos!",
+            "HEB": "הומר בהצלחה תוך {0} שניות!"
         },
         "CompletedRevertMinutes": {
             "ENG": "Successfully Reverted In {0} Minutes!",
             "SPAN": "¡Revertido con éxito en {0} minutos!",
             "POL": "Pomyślnie Przywrócono w {0} Minut!",
-            "POR": "Revertido com sucesso em {0} minutos!"
+            "POR": "Revertido com sucesso em {0} minutos!",
+            "HEB": "הוחזר בהצלחה תוך {0} דקות!"
         },
         "CompletedRevertSeconds": {
             "ENG": "Successfully Reverted In {0} Seconds!",
             "SPAN": "¡Revertido con éxito en {0} segundos!",
             "POL": "Pomyślnie Przywrócono w {0} Sekund!",
-            "POR": "Revertido com sucesso em {0} segundos!"
+            "POR": "Revertido com sucesso em {0} segundos!",
+            "HEB": "הוחזר בהצלחה תוך {0} שניות!"
         },
         "FailedTeleAnyLength": {
             "ENG": "Failed to allocate length with tele and strings! Please adjust replace strings for more length.\n\nNeeded {0} more characters.",
             "SPAN": "¡No se pudo asignar la longitud con tele y cuerdas! Ajuste las cadenas de reemplazo para obtener más longitud.\n\nSe necesitan {0} caracteres más.",
             "POL": "Nieudano przydzielić długości z tele i nicią! Prosze dostosuj zamiane nici na dłuższą długość.\n\nPotrzebne {0} więcej postaci.",
-            "POR": "Falha ao alocar comprimento com tele e strings! Ajuste as strings de substituição para obter mais comprimento.\n\nPrecisa de mais {0} caracteres."
+            "POR": "Falha ao alocar comprimento com tele e strings! Ajuste as strings de substituição para obter mais comprimento.\n\nPrecisa de mais {0} caracteres.",
+            "HEB": "הקצאת אורך עם טל ומיתרים נכשלה! נא להתאים מחרוזות החלפה לאורך יותר.\n\nצריך עוד {0} תווים."
         },
         "CompressionLength": {
             "ENG": "Compressed asset is bigger then orginal! please attempt to shorted strings of the asset.\n\nCompressed Asset:{0}\nOrignal Asset:{1}",
-            "SPAN": "¡El activo comprimido es más grande que el original! intente acortar las cadenas del activo.\n\nActivo comprimido:{0}\nActivo original:{1}",
+            "SPAN": "¡El archivo comprimido es más grande que el original! intente acortar las cadenas del activo.\n\nActivo comprimido:{0}\nActivo original:{1}",
             "POL": "Skompresowany plik jest większy niż oryginalny! Prosze spróbój skrócić nici pliku.\n\nSkompresowany Plik:{0}\nOryginalny Plik:{1}",
-            "POR": "O recurso compactado é maior que o original! tente encurtar as strings do recurso.\n\nRecurso compactado:{0}\nRecurso original:{1}"
+            "POR": "O recurso compactado é maior que o original! tente encurtar as strings do recurso.\n\nRecurso compactado:{0}\nRecurso original:{1}",
+            "HEB": "נכס דחוס גדול יותר מהמקורי! נסה לקצר מחרוזות של הנכס.\n\nנכס דחוס:{0}\nנכס מקורי:{1}"
         },
         "BackupOutOfSpace": {
             "ENG": "{0} Has Ran Out Of Storage! Please Make Some More Room Before Swapping.",
             "SPAN": "¡{0} se ha quedado sin almacenamiento! Por favor, haga más espacio antes de cambiar.",
             "POL": "{0} Zabrakło pamięci! Proszę zrób troche miejsca przed zamianą.",
-            "POR": "{0} Ficou sem armazenamento! Por favor, crie um pouco mais de espaço antes de trocar."
+            "POR": "{0} Ficou sem armazenamento! Por favor, crie um pouco mais de espaço antes de trocar.",
+            "HEB": "ל-{0} נגמר המקום, אנא פנה מקום נוסף לפני שתשנה את הפריט"
         },
         "GameFilesInUse": {
             "ENG": "{0}\nIs currently in use by another process? Please make sure Fortnite is closed or any other processes that will use your game files!",
             "SPAN": "{0}\n¿Está siendo utilizado actualmente por otro proceso? ¡Asegúrate de que Fortnite esté cerrado o cualquier otro proceso que use tus archivos de juego!",
             "POL": "{0}\nJest obecnie używany przez inny proces? Proszę upewni się że Fortnite jest wyłączony lub inny proces nie używa plików gry!",
-            "POR": "{0}\nEstá em uso por outro processo? Certifique-se de que o Fortnite está fechado ou qualquer outro processo que usará os arquivos do seu jogo!"
+            "POR": "{0}\nEstá em uso por outro processo? Certifique-se de que o Fortnite está fechado ou qualquer outro processo que usará os arquivos do seu jogo!",
+            "HEB": "{0}\nהאם כרגע בשימוש בתהליך אחר? אנא ודא שפורטנייט סגור או כל תהליכים אחרים שישתמשו בקבצי המשחק שלך!"
         },
         "InvalidHexColor": {
             "ENG": "{0} Is not a valid hex color!",
             "SPAN": "{0} ¡No es un color hexadecimal válido!",
             "POL": "{0} Jest nieprawidłowym kolorem hex!",
-            "POR": "{0} não é uma cor hexadecimal válida!"
+            "POR": "{0} não é uma cor hexadecimal válida!",
+            "HEB": "{0} אינו צבע משושה חוקי!"
         },
         "EmoteWarning": {
             "ENG": "DO NOT put swapped emotes in your emote wheel! You can favorite the emote to find it faster.",
-            "SPAN": "¡NO pongas emotes intercambiados en tu rueda de emotes! Puedes marcar el emoticón como favorito para encontrarlo más rápido.",
+            "SPAN": "¡NO pongas bailes intercambiados en tu rueda de emotes! Puedes marcar el baile como favorito para encontrarlo más rápido.",
             "POL": "Nie dodawaj zamienionych emotek do koła wyboru! Możesz dodać je do ulubionych by znaleźć je szybciej.",
-            "POR": "NÃO coloque emotes trocados em sua roda de emotes! Você pode adicionar o emote aos favoritos para encontrá-lo mais rapidamente."
+            "POR": "NÃO coloque emotes trocados em sua roda de emotes! Você pode adicionar o emote aos favoritos para encontrá-lo mais rapidamente.",
+            "HEB": "אל תשים את הריקוד בגלגל הריקודין אתה יכול לשים אותו במועדפים ואז תמצא אותו יותר מהר"
         },
         "ClosedFortnite": {
             "ENG": "Successfully closed Fortnite!",
             "SPAN": "¡Fortnite cerrado con éxito!",
             "POL": "Pomyślnie wyłączono Fortnite!",
-            "POR": "Fortnite fechado com sucesso!"
+            "POR": "Fortnite fechado com sucesso!",
+            "HEB": "סגר את הפורטנייט בהצלחה"
         },
         "RemovedDupedUcas": {
             "ENG": "Successfully removed duped ucas!",
             "SPAN": "Eliminado con éxito ucas duplicados",
             "POL": "Pomyślnie usunięto zduplikowane Ucas!",
-            "POR": "Duped ucas removido com sucesso!"
+            "POR": "Duped ucas removido com sucesso!",
+            "HEB": "מחק את הקבצים בהצלחה"
         },
         "RemovedDupedUcasError": {
             "ENG": "Caught a error while trying to delete duped ucas!\n{0}\nPlease make sure Fortnite is closed and try restarting the swapper.",
-            "SPAN": "¡Obtuve un error al intentar eliminar ucas duplicadas!\n{0}\nAsegúrate de que Fortnite esté cerrado e intenta reiniciar el intercambiador.",
+            "SPAN": "¡Ocurrio un error al intentar eliminar ucas duplicadas!\n{0}\nAsegúrate de que Fortnite esté cerrado e intenta reiniciar el intercambiador.",
             "POL": "Złapano błąd przy próbie usuwanie zduplikowanego Ucas!\n{0}\nProsze upewnij się że Fortnite jest zamknięty i spróbuj zresetować swapper.",
-            "POR": "Ocorreu um erro ao tentar excluir ucas enganados!\n{0}\nCertifique-se de que o Fortnite está fechado e tente reiniciar o swapper."
+            "POR": "Ocorreu um erro ao tentar excluir ucas enganados!\n{0}\nCertifique-se de que o Fortnite está fechado e tente reiniciar o swapper.",
+            "HEB": "קלטה שגיאה בעת ניסיון למחוק Ucas מטעה!\n{0}\nאנא ודא ש-Fortnite סגור ונסה להפעיל מחדש את ההחלפה."
         },
         "Verify": {
             "ENG": "We are now redirecting you to Epic Games verification! If Epic Games Launcher does not open by itself, then open it manually.",
             "SPAN": "¡Ahora lo estamos redirigiendo a la verificación de Epic Games! Si Epic Games Launcher no se abre solo, ábralo manualmente.",
             "POL": "Przeniesiemy cię do weryfikacji Epic Games! Jeżeli Epic Games Launcher się nie otwiera sama to otwórz ją manualnie.",
-            "POR": "Agora estamos redirecionando você para a verificação da Epic Games! Se o Epic Games Launcher não abrir sozinho, abra-o manualmente."
+            "POR": "Agora estamos redirecionando você para a verificação da Epic Games! Se o Epic Games Launcher não abrir sozinho, abra-o manualmente.",
+            "HEB": "אנחנו עכשיו מקבלים איתחול של הקבצים מאפיק גיימס עם האפיק גיימס לא נפתח לבד תפתח אותו בעצמך"
         },
         "RefreshCosmetics": {
             "ENG": "Successfully refreshed cosmetic tabs!",
-            "SPAN": "¡Pestañas cosméticas actualizadas con éxito!",
+            "SPAN": "¡Pestaña de cosmeticos actualizadas con éxito!",
             "POL": "Pomyślnie odświerzono tabele z kosmetykami!",
-            "POR": "Abas cosméticas atualizadas com sucesso!"
+            "POR": "Abas cosméticas atualizadas com sucesso!",
+            "HEB": "הצליח לעשות אתחול לפריטים"
         },
         "ConvertedItems": {
             "ENG": "Converted items:\n{0}\nPakchunks in use:\n{1}",
-            "SPAN": "Elementos convertidos:\n{0}\nPakchunks en uso:\n{1}",
+            "SPAN": "Cosmeticos convertidos:\n{0}\nPakchunks en uso:\n{1}",
             "POL": "Zamienione Przedmioty:\n{0}\nPakchunks w użyciu:\n{1}",
-            "POR": "Itens convertidos:\n{0}\nPakchunks em uso:\n{1}"
+            "POR": "Itens convertidos:\n{0}\nPakchunks em uso:\n{1}",
+            "HEB": "פריטים שהומרו:\n{0}\nPakchunks בשימוש:\n{1}"
         },
         "ResetConvertedItemsWarning": {
             "ENG": "Are you sure you want to reset converted items?\n(This will not remove the cosmetics from your game this will only reset converted items list)",
-            "SPAN": "¿Está seguro de que desea restablecer los elementos convertidos?\n(Esto no eliminará los cosméticos de su juego, solo restablecerá la lista de elementos convertidos)",
+            "SPAN": "¿Está seguro de que desea restablecer los cosmeticos convertidos?\n(Esto no eliminará los cosméticos de su juego, solo restablecerá la lista de cosmeticos convertidos)",
             "POL": "Napewno chcesz zresetować zamienione przedmioty?\n(To nie usunie kosmetyków z twojej gry a tylko zresetuje liste zamienionych rzeczy)",
-            "POR": "Tem certeza de que deseja redefinir os itens convertidos?\n(Isso não removerá os cosméticos do seu jogo, apenas redefinirá a lista de itens convertidos)"
+            "POR": "Tem certeza de que deseja redefinir os itens convertidos?\n(Isso não removerá os cosméticos do seu jogo, apenas redefinirá a lista de itens convertidos)",
+            "HEB": "האם אתה בטוח שברצונך לאפס פריטים שהומרו?\n(זה לא יסיר את מוצרי הקוסמטיקה מהמשחק שלך זה יאפס רק את רשימת הפריטים שהומרו)"
         },
         "ResetConvertedItems": {
             "ENG": "Successfully reset converted items!",
-            "SPAN": "¡Restablecer con éxito los elementos convertidos!",
+            "SPAN": "¡Se ha restablecido los cosmeticos con exito!",
             "POL": "Pomyślnie zresetowano zamienone przedmioty!",
-            "POR": "Redefinir itens convertidos com sucesso!"
+            "POR": "Redefinir itens convertidos com sucesso!",
+            "HEB": "הצליח לשחזרת את רשימת הפריטים"
         },
         "ValidSelection": {
             "ENG": "Successfully updated Fortnite install location to:\n{0}",
             "SPAN": "Ubicación de instalación de Fortnite actualizada con éxito a:\n{0}",
             "POL": "Pomyślnie zaaktualizowano lokalizacje instalacji Fortnite'a:\n{0}",
-            "POR": "Local de instalação do Fortnite atualizado com sucesso para:\n{0}"
+            "POR": "Local de instalação do Fortnite atualizado com sucesso para:\n{0}",
+            "HEB": "מיקום התקנת Fortnite עודכן בהצלחה ל:\n{0}"
         },
         "NotValidSelection": {
             "ENG": "The selected location is not a valid Fortnite install path! Please make sure you are selected the correct folder.",
             "SPAN": "¡La ubicación seleccionada no es una ruta de instalación de Fortnite válida! Por favor, asegúrese de haber seleccionado la carpeta correcta.",
             "POL": "Wybrana lokalizacja nie jest poprawną ścieżką instalacji Fortnite! Proszę upewnij się że wybrałeś poprawny folder.",
-            "POR": "O local selecionado não é um caminho de instalação válido do Fortnite! Verifique se você selecionou a pasta correta."
+            "POR": "O local selecionado não é um caminho de instalação válido do Fortnite! Verifique se você selecionou a pasta correta.",
+            "HEB": "הבחירה של הקבצים לא נמצא בהורדת הפורטנייט"
         },
         "ToManyPaks": {
             "ENG": "You have to many PakChunks in use. Swapping this item will kick you from the match! If you want to swap this item please revert a item you already have swapped.",
-            "SPAN": "Tienes muchos PakChunks en uso. ¡Cambiar este artículo te expulsará del partido! Si desea intercambiar este artículo, revierta un artículo que ya haya intercambiado.",
+            "SPAN": "Tienes muchos PakChunks en uso. ¡Intercambiar este cosmetico te expulsará de la partida! Si desea intercambiar este cosmetico, revierta un cosmetico que ya haya intercambiado.",
             "POL": "Masz za dużo PakChunków w użyciu. Zamienienie tego przedmiotu będzie skutkować wyrzuceniem z meczu! Jeżeli chcesz zamienić ten przedmiot prosze cofnij przedmiot który właśnie zamieniłeś.",
-            "POR": "Você tem muitos PakChunks em uso. Trocar este item irá expulsá-lo da partida! Se você quiser trocar este item, por favor, reverta um item que você já trocou."
+            "POR": "Você tem muitos PakChunks em uso. Trocar este item irá expulsá-lo da partida! Se você quiser trocar este item, por favor, reverta um item que você já trocou.",
+            "HEB": "אתה צריך הרבה PakChunks בשימוש. החלפת פריט זה תעיף אותך מהמשחק! אם אתה רוצה להחליף פריט זה אנא החזר פריט שכבר החלפת."
         },
         "ToManyCosmetics": {
             "ENG": "You have over 8 items swapped! If you swap this item you might get kicked from the match.",
-            "SPAN": "¡Tienes más de 8 artículos intercambiados! Si cambia este elemento, es posible que lo expulsen del partido.",
+            "SPAN": "¡Tienes más de 8 cosmeticos intercambiados! Si intercambia este cosmetico, es posible que lo expulsen de la partida.",
             "POL": "Masz powyżej 8 zamienionych przedmiotów! Jeżeli zmienisz ten przedmiot możesz zostać wyrzucony z meczu.",
-            "POR": "Você tem mais de 8 itens trocados! Se você trocar este item, poderá ser expulso da partida."
+            "POR": "Você tem mais de 8 itens trocados! Se você trocar este item, poderá ser expulso da partida.",
+            "HEB": "יש לך יותר מ 8 פריטים ששינית עם לא תשחזר כמה יש סיכוי שזה יוציא אותך מהמשחק"
         },
         "FailedToExport": {
             "ENG": "Failed to export asset! Please try restarting then go to settings and clicking 'Verify Fortnite' then swap the cosmetic again!",
-            "SPAN": "¡Error al exportar el recurso! Intente reiniciar, luego vaya a la configuración y haga clic en 'Verificar Fortnite', ¡luego cambie el cosmético nuevamente!",
+            "SPAN": "¡Error al exportar el recurso! Intente reiniciar, luego vaya a la configuración y haga clic en 'Verificar Fortnite', ¡luego intercambie el cosmético nuevamente!",
             "POL": "Nieudano eksportować plik! Prosze spróbuj restartować, później przejdź do ustawień i kliknij 'Weryfikuj Fortnite' później zamień kosmetyk ponownie!",
-            "POR": "Falha ao exportar recurso! Tente reiniciar, vá para as configurações e clique em 'Verificar Fortnite' e troque o cosmético novamente!"
+            "POR": "Falha ao exportar recurso! Tente reiniciar, vá para as configurações e clique em 'Verificar Fortnite' e troque o cosmético novamente!",
+            "HEB": "ייצוא הנכס נכשל! אנא נסה להפעיל מחדש ואז עבור להגדרות ולחץ על 'אמת Fortnite' ואז החלף שוב את הקוסמטיקה!"
         },
         "PluginJsonInvalid": {
             "ENG": "{0}\nPlugin file is not in a valid json format!",
             "SPAN": "{0}\n¡El archivo del complemento no tiene un formato json válido!",
             "POL": "{0}\nPlugin pliku jest w niepoprawnym formacie json!",
-            "POR": "{0}\nO arquivo de plug-in não está em um formato json válido!"
+            "POR": "{0}\nO arquivo de plug-in não está em um formato json válido!",
+            "HEB": "{0}\nקובץ הפלאגין אינו בפורמט json חוקי!"
         },
         "PluginDoesNotContain": {
             "ENG": "{0}\nPlugin file does not contain {1}!",
             "SPAN": "{0}\n¡El archivo de complemento no contiene {1}!",
             "POL": "{0}\nPlugin pliku nie zawiera {1}!",
-            "POR": "{0}\nO arquivo de plug-in não contém {1}!"
+            "POR": "{0}\nO arquivo de plug-in não contém {1}!",
+            "HEB": "{0}\nקובץ הפלאגין אינו מכיל {1}!"
         }
     }
 }
