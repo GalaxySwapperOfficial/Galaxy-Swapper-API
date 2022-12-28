@@ -391,6 +391,13 @@
                 "POL": "Ostrzeżenie Emotek",
                 "POR": "Aviso de Emote",
                 "HEB": "תזהר מהריקודים"
+            },
+            "Dev": {
+                "ENG": "Dev",
+                "SPAN": "Desarrollador",
+                "POL": "Deweloper",
+                "POR": "Desenvolvedor",
+                "HEB": "מפתח"
             }
         },
         "OptionsView": {
@@ -965,6 +972,15 @@
             "POL": "{0}\nPlugin pliku nie zawiera {1}!",
             "POR": "{0}\nO arquivo de plug-in não contém {1}!",
             "HEB": "{0}\nקובץ הפלאגין אינו מכיל {1}!"
+        },
+        "FailedToSwap":{
+            "ENG":"Failed to convert cosmetic! Please make a ticket in our discord.\n\nError:\n{0}"
+        },
+        "Saturn":{
+            "ENG":"We have detected you have been using Saturn swapper! Using both swappers at the same time will cause issues and possibly game crashes. In order to avoid this, we will need to remove Saturn swapper duped ucas. Would you like to do this?"
+        },
+        "DevModeError":{
+            "ENG":"You are unable to enter 'Dev' mode as you are not a developer!"
         }
     }
 }
