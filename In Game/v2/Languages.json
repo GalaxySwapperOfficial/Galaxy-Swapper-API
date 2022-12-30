@@ -626,6 +626,12 @@
                 "POL": "Cofanie pliku {0}",
                 "POR": "Revertendo ativo {0}",
                 "HEB": "משחזר את הנכס:{0}"
+            },
+            "Rarity": {
+                "ENG": "Swapping rarity"
+            },
+            "Series": {
+                "ENG": "Swapping series"
             }
         },
         "LanguageView": {
@@ -981,6 +987,14 @@
         },
         "DevModeError":{
             "ENG":"You are unable to enter 'Dev' mode as you are not a developer!"
+        },
+        "UpdateRequried": {
+            "ENG": "A updated is required! Please click 'ok' to download now.",
+            "SPAN": "¡Se requiere una actualización! Por favor, haga clic en 'ok' para descargar ahora."
+        },
+        "UpdateAvailable": {
+            "ENG": "A updated is available! Would you like to download it now?",
+            "SPAN": "¡Hay una actualización disponible! ¿Te gustaría descargarlo ahora?"
         }
     }
 }
