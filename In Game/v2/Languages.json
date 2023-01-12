@@ -515,6 +515,24 @@
                 "POR": "Trocar como hexadecimal",
                 "HEB": "החלפה כמשושה"
             },
+            "SterilizingAsset": {
+                "ENG": "Sterilizing {0}"
+            },
+            "DeserializingAsset": {
+                "ENG": "Deserializing {0}"
+            },
+            "SwappingNameMapHashes": {
+                "ENG": "Swapping Namemap Hashes"
+            },
+            "CheckingOverwrite": {
+                "ENG": "Checking if overwrite is needed"
+            },
+            "OverWriting": {
+                "ENG": "Overwriting old swap data"
+            },
+            "DeterminCustomCharacterPart": {
+                "ENG": "Determaning if custom CharacterPart is needed"
+            },
             "FailedStringAnyLength": {
                 "ENG": "Failed to allocate length with strings",
                 "SPAN": "Error al asignar longitud con strings",
@@ -985,6 +1003,9 @@
         "Saturn":{
             "ENG":"We have detected you have been using Saturn swapper! Using both swappers at the same time will cause issues and possibly game crashes. In order to avoid this, we will need to remove Saturn swapper duped ucas. Would you like to do this?"
         },
+        "ProSwapper":{
+            "ENG":"We have detected you have been using Pro swapper! Using both swappers at the same time will cause issues and possibly game crashes. In order to avoid this, we will need to remove Pro swapper duped ucas. Would you like to do this?"
+        },
         "DevModeError":{
             "ENG":"You are unable to enter 'Dev' mode as you are not a developer!"
         },
@@ -995,6 +1016,9 @@
         "UpdateAvailable": {
             "ENG": "A updated is available! Would you like to download it now?",
             "SPAN": "¡Hay una actualización disponible! ¿Te gustaría descargarlo ahora?"
+        },
+        "FailedAppVersion": {
+            "ENG": "Failed to locate app version!"
         }
     }
 }
