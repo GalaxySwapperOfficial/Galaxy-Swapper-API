@@ -1017,8 +1017,8 @@
             "ENG": "A updated is available! Would you like to download it now?",
             "SPAN": "¡Hay una actualización disponible! ¿Te gustaría descargarlo ahora?"
         },
-        "FailedAppVersion": {
-            "ENG": "Failed to locate app version!"
+        "DLLImportError": {
+            "ENG": "Failed to import DLL! Please restart Galaxy Swapper v2 as administrator and try again.\n\nError:\n{0}"
         }
     }
 }
