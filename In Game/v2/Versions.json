@@ -38,7 +38,7 @@
       "Warning":false,
       "DownTime":false,
       "Update":false,
-      "UpdateRequried":false,
+      "UpdateRequried":true,
       "WarningInfo":{
          "Header":"",
          "Message":""
@@ -52,7 +52,7 @@
       "Warning":false,
       "DownTime":false,
       "Update":false,
-      "UpdateRequried":false,
+      "UpdateRequried":true,
       "WarningInfo":{
          "Header":"",
          "Message":""
