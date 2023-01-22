@@ -23,7 +23,7 @@
    "1.02":{
       "Warning":false,
       "DownTime":false,
-      "Update":false,
+      "Update":true,
       "UpdateRequried":false,
       "WarningInfo":{
          "Header":"",
