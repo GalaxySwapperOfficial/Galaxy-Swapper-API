@@ -37,7 +37,7 @@
    "1.01":{
       "Warning":false,
       "DownTime":false,
-      "Update":false,
+      "Update":true,
       "UpdateRequried":true,
       "WarningInfo":{
          "Header":"",
@@ -51,7 +51,7 @@
    "1.00":{
       "Warning":false,
       "DownTime":false,
-      "Update":false,
+      "Update":true,
       "UpdateRequried":true,
       "WarningInfo":{
          "Header":"",
