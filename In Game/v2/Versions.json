@@ -24,7 +24,7 @@
       "Warning":false,
       "DownTime":false,
       "Update":true,
-      "UpdateRequried":false,
+      "UpdateRequried":true,
       "WarningInfo":{
          "Header":"",
          "Message":""
