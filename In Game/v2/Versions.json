@@ -3,6 +3,23 @@
    "Website":"https://www.galaxyswapperv2.com/",
    "Download":"https://link-target.net/98253/GalaxySwapperv2OfficialDownload",
    "Key":"https://link-to.net/98253/GalaxySwapperv2Key",
+   "1.04":{
+      "Warning":false,
+      "DownTime":false,
+      "Update":false,
+      "UpdateRequried":false,
+      "WarningInfo":{
+         "Header":"",
+         "Message":""
+      },
+      "DownTimeInfo":{
+         "Header":"",
+         "Message":""
+      },
+      "Notes":{
+         "ENG":"[!] Testing"
+      }
+   },
    "1.03":{
       "Warning":false,
       "DownTime":false,
