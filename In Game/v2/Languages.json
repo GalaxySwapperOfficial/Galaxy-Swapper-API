@@ -963,7 +963,7 @@
             "HEB": "הבחירה של הקבצים לא נמצא בהורדת הפורטנייט"
         },
         "ToManyPaks": {
-            "ENG": "You have to many PakChunks in use. Swapping this item will kick you from the match! If you want to swap this item please revert a item you already have swapped.",
+            "ENG": "You have to many Pakchunks in use. Swapping this item will kick you from the match!\n\nWhat does this mean?\nEvery item uses a specific Pakchunk. Swapping in more then 2 Pakchunks will cause you to get kicked.\n\nWhat can i do to fix this?\n1. Try using another option for this cosmetic.\n2. Revert a item you already have swapped.\n\nAre you receiving this message without having anything swapped?\nGo to settings and under 'Converted Cosmetics' click 'Reset'",
             "SPAN": "Tienes muchos PakChunks en uso. ¡Intercambiar este cosmetico te expulsará de la partida! Si desea intercambiar este cosmetico, revierta un cosmetico que ya haya intercambiado.",
             "POL": "Masz za dużo PakChunków w użyciu. Zamienienie tego przedmiotu będzie skutkować wyrzuceniem z meczu! Jeżeli chcesz zamienić ten przedmiot prosze cofnij przedmiot który właśnie zamieniłeś.",
             "POR": "Você tem muitos PakChunks em uso. Trocar este item irá expulsá-lo da partida! Se você quiser trocar este item, por favor, reverta um item que você já trocou.",
