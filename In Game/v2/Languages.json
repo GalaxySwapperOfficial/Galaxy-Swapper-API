@@ -998,7 +998,7 @@
             "HEB": "{0}\nקובץ הפלאגין אינו מכיל {1}!"
         },
         "FailedToSwap":{
-            "ENG":"Failed to convert cosmetic! Please make a ticket in our discord.\n\nError:\n{0}"
+            "ENG":"Failed to convert cosmetic! This swap has been cancelled.\n\nWhat does this mean?\n1. Go to settings and under 'Fortnite' click 'Verify Fortnite' then open epic games and let it complete then reswap this cosmetic.\n2. Ensure that all of your anti viruses are disabled.\n3. Attempt to run Galaxy Swapper v2 as admin.\n\nStill receiving this message? Create a ticket in our Discord.\n\nLogs:\n{0}"
         },
         "Saturn":{
             "ENG":"We have detected you have been using Saturn swapper! Using both swappers at the same time will cause issues and possibly game crashes. In order to avoid this, we will need to remove Saturn swapper duped ucas. Would you like to do this?"
