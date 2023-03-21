@@ -1,16 +1,16 @@
 {
-   "Discord":"https://discord.gg/rbAKZvbyj8",
+   "Discord":"https://discord.gg/b5T69Asm8M",
    "Website":"https://www.galaxyswapperv2.com/",
    "Download":"https://link-target.net/98253/GalaxySwapperv2OfficialDownload",
    "Key":"https://link-to.net/98253/GalaxySwapperv2Key",
    "1.04":{
-      "Warning":false,
+      "Warning":true,
       "DownTime":false,
       "Update":false,
       "UpdateRequried":false,
       "WarningInfo":{
-         "Header":"",
-         "Message":""
+         "Header":"Please Read:",
+         "Message":"We have officially moved to our backup Discord server now. If you were previously boosting our server and would like to support us and receive boost perks again, please transfer your server boost to this server. Join here: https://discord.gg/b5T69Asm8M"
       },
       "DownTimeInfo":{
          "Header":"",
@@ -21,13 +21,13 @@
       }
    },
    "1.03":{
-      "Warning":false,
+      "Warning":true,
       "DownTime":false,
       "Update":false,
       "UpdateRequried":false,
       "WarningInfo":{
-         "Header":"",
-         "Message":""
+         "Header":"Please Read:",
+         "Message":"We have officially moved to our backup Discord server now. If you were previously boosting our server and would like to support us and receive boost perks again, please transfer your server boost to this server. Join here: https://discord.gg/b5T69Asm8M"
       },
       "DownTimeInfo":{
          "Header":"",
