@@ -1,17 +1,10 @@
 [
     {
         "Type": null,
-        "IMG": "https://cdn.discordapp.com/attachments/1006267330399060018/1073828765395845180/ValentineDay.png",
-        "Header": "More skin styles joined in for Valentine's day!",
-        "Description": "Check these cosmetics now!",
-        "URL": null
-    },
-    {
-        "Type": null,
-        "IMG": "https://cdn.discordapp.com/attachments/1006267330399060018/1073472046547353670/KidlaroiNews.png",
-        "Header": "Kid LAROI has arrived to Galaxy Swapper!",
-        "Description": "Check out his cosmetics now!",
-        "URL": null
+        "IMG": "https://cdn.discordapp.com/attachments/1079532928775761974/1087774564806819942/NewDiscord.png",
+        "Header": "New Discord Server!",
+        "Description": "We have moved discord servers to: https://discord.gg/b5T69Asm8M",
+        "URL": "https://discord.gg/b5T69Asm8M"
     },
     {
         "Type": "FortniteNews",
