@@ -78,5 +78,8 @@
          "Header":"",
          "Message":""
       }
+   },
+   "Plugins":{
+      "Enabled":true
    }
 }
