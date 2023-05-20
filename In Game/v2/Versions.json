@@ -21,13 +21,13 @@
       }
    },
    "1.03":{
-      "Warning":false,
+      "Warning":true,
       "DownTime":false,
       "Update":false,
       "UpdateRequried":false,
       "WarningInfo":{
          "Header":"Please Read:",
-         "Message":"We have officially moved to our backup Discord server now. If you were previously boosting our server and would like to support us and receive boost perks again, please transfer your server boost to this server. Join here: https://discord.gg/b5T69Asm8M"
+         "Message":"Due to Fortnite updating, Galaxy Swapper v2 no longer works in game! Please wait while we find a way around this issue. Thank you for your patience."
       },
       "DownTimeInfo":{
          "Header":"",
