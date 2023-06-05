@@ -7,7 +7,7 @@
       "Warning":false,
       "DownTime":false,
       "Update":true,
-      "UpdateRequried":false,
+      "UpdateRequried":true,
       "WarningInfo":{
          "Header":"Please Read:",
          "Message":"Due to Fortnite updating, Galaxy Swapper v2 no longer works in game! Please wait while we find a way around this issue. Thank you for your patience."
